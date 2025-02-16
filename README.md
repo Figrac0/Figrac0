@@ -27,12 +27,7 @@ I’m always striving to improve my programming skills and develop new projects 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<style>
-  body {
-    background: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif') no-repeat center center fixed;
-    background-size: cover;
-    color: white; /* Или другой цвет, который будет контрастировать с фоном */
-  }
-</style>
+![background](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif)
+
 
 
