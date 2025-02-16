@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hi, my name is Sergey,<br>
+# 👋 Hi, my name is Sergey,<br>
 I’m a developer with experience in frontend development and creating responsive interfaces.🚀<br>
 I’m a programmer with experience in JavaScript, TypeScript, and React, building dynamic web applications.💻<br>
 I specialize in creating websites with a focus on UX/UI and cross-browser compatibility using HTML5, CSS3, JavaScript, and SASS.🎨<br>
