@@ -22,14 +22,13 @@ I’m always striving to improve my programming skills and develop new projects 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Figrac0&icon=3&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![My GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif" />
+</p>
+
 
