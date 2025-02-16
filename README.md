@@ -27,5 +27,5 @@ I’m always striving to improve my programming skills and develop new projects 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxqM3JocnBxMHl5Y3V5ZWFxZ2JldWdvZ2s0aGViZ3ZtbWExdnhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif" />
 </p>
