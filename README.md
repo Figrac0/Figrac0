@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi, my name is Sergey, I’m a developer with experience in frontend development and creating responsive interfaces.<br>I’m a programmer with experience in JavaScript, TypeScript, and React, building dynamic web applications.<br>I specialize in creating websites with a focus on UX/UI and cross-browser compatibility using HTML5, CSS3, JavaScript, and SASS.<br>I’m passionate about programming and enjoy solving tasks related to optimization and multithreading in C++ and Java.<br>I develop responsive web applications using React, Node.js, and PostgreSQL, including API integrations.<br>I’ve worked at EPAM, creating high-quality frontend solutions, and participated in UI design at Squad Team.<br>I build cross-platform solutions using modern frameworks and technologies for dynamic websites.<br>I integrate testing into the development process using Jest and React Testing Library for high-quality applications.<br>My portfolio includes projects for automating booking systems, creating interactive interfaces, and much more.<br>I’m always striving to improve my programming skills and develop new projects using the latest technologies.
+## 👋 Hi, my name is Sergey,<br>
+I’m a developer with experience in frontend development and creating responsive interfaces.🚀<br>
+I’m a programmer with experience in JavaScript, TypeScript, and React, building dynamic web applications.💻<br>
+I specialize in creating websites with a focus on UX/UI and cross-browser compatibility using HTML5, CSS3, JavaScript, and SASS.🎨<br>
+I’m passionate about programming and enjoy solving tasks related to optimization and multithreading in C++ and Java.⚙️<br>
+I develop responsive web applications using React, Node.js, and PostgreSQL, including API integrations.🌐<br>
+I build cross-platform solutions using modern frameworks and technologies for dynamic websites.🌍<br>
+I integrate testing into the development process using Jest and React Testing Library for high-quality applications.✅<br>
+My portfolio includes projects for automating booking systems, creating interactive interfaces, and much more.📂<br>
+I’m always striving to improve my programming skills and develop new projects using the latest technologies.📚
 
 
 ## 🌐 Socials:
