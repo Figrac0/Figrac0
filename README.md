@@ -9,6 +9,10 @@ I integrate testing into the development process using Jest and React Testing Li
 My portfolio includes projects for automating booking systems, creating interactive interfaces, and much more.📂<br>
 I’m always striving to improve my programming skills and develop new projects using the latest technologies.📚
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fajllovt42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serjjinius@gmail.com) 
