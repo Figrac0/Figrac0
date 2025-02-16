@@ -20,14 +20,12 @@ I’m always striving to improve my programming skills and develop new projects 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Figrac0&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Figrac0&icon=3&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif" />
+</p>
 
-![background](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1Z3F3bG4yMDQwZnRsdGdqYW1ldmZnNmwzZ2g4eTFxZWJ3ZG5rMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif)
 
 
 
