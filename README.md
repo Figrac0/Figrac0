@@ -1,17 +1,17 @@
 # 👋 Hi, my name is Sergey,<br>
-I’m a developer with experience in frontend development and creating responsive interfaces.🚀<br>
-I’m a programmer with experience in JavaScript, TypeScript, and React, building dynamic web applications.💻<br>
-I specialize in creating websites with a focus on UX/UI and cross-browser compatibility using HTML5, CSS3, JavaScript, and SASS.🎨<br>
-I’m passionate about programming and enjoy solving tasks related to optimization and multithreading in C++ and Java.⚙️<br>
-I develop responsive web applications using React, Node.js, and PostgreSQL, including API integrations.🌐<br>
-I build cross-platform solutions using modern frameworks and technologies for dynamic websites.🌍<br>
-I integrate testing into the development process using Jest and React Testing Library for high-quality applications.✅<br>
-My portfolio includes projects for automating booking systems, creating interactive interfaces, and much more.📂<br>
-I’m always striving to improve my programming skills and develop new projects using the latest technologies.📚
+As a developer, I have extensive experience in frontend development and creating responsive interfaces. 🚀<br>
+Proficient in JavaScript, TypeScript, and React, I build dynamic and engaging web applications. 💻<br>
+Specializing in UX/UI-focused websites, I ensure cross-browser compatibility using modern tools like HTML5, CSS3, JavaScript, and SASS. 🎨<br>
+With a strong passion for programming, I enjoy tackling challenges in optimization and multithreading, particularly in C++ and Java. ⚙️<br>
+Experienced in developing responsive web applications, I work with React, Node.js, and PostgreSQL, including seamless API integrations. 🌐<br>
+Skilled in building cross-platform solutions, I leverage modern frameworks and technologies to create dynamic websites. 🌍<br>
+Testing is a key part of my development process, utilizing Jest and React Testing Library to deliver high-quality applications. ✅<br>
+My portfolio showcases a variety of projects, from automating booking systems to designing interactive interfaces and more. 📂<br>
+Committed to continuous growth, I’m always exploring new technologies and working on innovative projects. 📚<br>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
-</p>
+</p><br>
 
 
 ## 🌐 Socials:
