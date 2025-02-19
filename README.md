@@ -1,19 +1,19 @@
 # 👋 Hi, my name is Sergey,<br>
 ### 🚀 About Me
-I’m a passionate developer with extensive experience in frontend development and creating responsive interfaces. I specialize in building dynamic and engaging web applications using modern technologies.
+I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
 
 ### 💻 Skills & Expertise
-**Frontend Development:** Proficient in JavaScript, TypeScript, and React.
+**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_.
 
-**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using HTML5, CSS3, JavaScript, and SASS.
+**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using _HTML5, CSS3, JavaScript, and SASS_.
 
-**Backend Integration:** Experienced in developing responsive web applications with React, Node.js, and PostgreSQL, including seamless API integrations.
+**Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_.
 
-**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in C++ and Java.
+**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in _C++ and Java_.
 
-**Cross-Platform Solutions:** Skilled in building dynamic websites using modern frameworks and technologies.
+**Cross-Platform Solutions:** Skilled in building dynamic websites using _modern frameworks and technologies_.
 
-**Testing:** Utilize Jest and React Testing Library to ensure high-quality applications.
+**Testing:** Utilize Jest and React Testing Library to ensure _high-quality applications_.
 
 ### 🌟 Portfolio Highlights
 
