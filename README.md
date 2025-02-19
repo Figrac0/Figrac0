@@ -1,31 +1,31 @@
 # 👋 Hi, my name is Sergey,<br>
-## 🚀 About Me
+### 🚀 About Me
 I’m a passionate developer with extensive experience in frontend development and creating responsive interfaces. I specialize in building dynamic and engaging web applications using modern technologies.
 
 ### 💻 Skills & Expertise
-Frontend Development: Proficient in JavaScript, TypeScript, and React.
+**Frontend Development:** Proficient in JavaScript, TypeScript, and React.
 
-UI/UX Design: Focus on creating user-friendly and cross-browser compatible websites using HTML5, CSS3, JavaScript, and SASS.
+**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using HTML5, CSS3, JavaScript, and SASS.
 
-Backend Integration: Experienced in developing responsive web applications with React, Node.js, and PostgreSQL, including seamless API integrations.
+**Backend Integration:** Experienced in developing responsive web applications with React, Node.js, and PostgreSQL, including seamless API integrations.
 
-Optimization & Multithreading: Enjoy tackling challenges in optimization and multithreading, particularly in C++ and Java.
+**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in C++ and Java.
 
-Cross-Platform Solutions: Skilled in building dynamic websites using modern frameworks and technologies.
+**Cross-Platform Solutions:** Skilled in building dynamic websites using modern frameworks and technologies.
 
-Testing: Utilize Jest and React Testing Library to ensure high-quality applications.
+**Testing:** Utilize Jest and React Testing Library to ensure high-quality applications.
 
-## 🌟 Portfolio Highlights
+### 🌟 Portfolio Highlights
 
-Interactive & Responsive Interfaces: Creation of modern and intuitive interfaces with a focus on user experience. Utilized technologies like React and SCSS to build dynamic and responsive designs.
++ Interactive & Responsive Interfaces: Creation of modern and intuitive interfaces with a focus on user experience. Utilized technologies like React and SCSS to build dynamic and responsive designs.
 
-Cross-Platform Solutions: Development of websites and applications that work efficiently across various platforms, ensuring high performance and cross-browser compatibility.
++ Cross-Platform Solutions: Development of websites and applications that work efficiently across various platforms, ensuring high performance and cross-browser compatibility.
 
-Automated Booking Systems: Development and optimization of web applications for booking, including real-time integrations and user-centric interfaces.
++ Automated Booking Systems: Development and optimization of web applications for booking, including real-time integrations and user-centric interfaces.
 
-Real-Time Integration Projects: Built systems providing instant data updates for users, including interactive tables and search functionalities.
++ Real-Time Integration Projects: Built systems providing instant data updates for users, including interactive tables and search functionalities.
 
-## 📚 Continuous Growth
+### 📚 Continuous Growth
 I’m committed to continuous learning and always exploring new technologies to work on innovative projects.
 
 <p align="center">
