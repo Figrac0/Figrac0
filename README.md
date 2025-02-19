@@ -3,30 +3,30 @@
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
 
 ### 💻 Skills & Expertise
-**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_.
+**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_.📍
 
-**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using _HTML5, CSS3, JavaScript, and SASS_.
+**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using _HTML5, CSS3, JavaScript, and SASS_.📍
 
-**Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_.
+**Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_.📍
 
-**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in _C++ and Java_.
+**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in _C++ and Java_.📍
 
-**Cross-Platform Solutions:** Skilled in building dynamic websites using _modern frameworks and technologies_.
+**Cross-Platform Solutions:** Skilled in building dynamic websites using _modern frameworks and technologies_.📍
 
-**Testing:** Utilize Jest and React Testing Library to ensure _high-quality applications_.
+**Testing:** Utilize Jest and React Testing Library to ensure _high-quality applications_.📍
 
 ### 🌟 Portfolio Highlights
 
-+ Interactive & Responsive Interfaces: Creation of modern and intuitive interfaces with a focus on user experience. Utilized technologies like React and SCSS to build dynamic and responsive designs.
++ Interactive & Responsive Interfaces: Creation of modern and **intuitive interfaces** with a focus on **user experience**. Utilized technologies like **React** and **SCS**S to build **dynamic** and **responsive** designs.🧚
 
-+ Cross-Platform Solutions: Development of websites and applications that work efficiently across various platforms, ensuring high performance and cross-browser compatibility.
++ Cross-Platform Solutions: Development of **websites and applications** that work efficiently across various **platforms**, ensuring high **performance** and **cross-browser compatibility**.🤖
 
-+ Automated Booking Systems: Development and optimization of web applications for booking, including real-time integrations and user-centric interfaces.
++ Automated Booking Systems: Development and **optimization** of **web applications** for **booking**, including **real-time integrations** and **user-centric interfaces**.🧙
 
-+ Real-Time Integration Projects: Built systems providing instant data updates for users, including interactive tables and search functionalities.
++ Real-Time Integration Projects: Built **systems** providing **instant data updates** for users, including interactive **tables** and **search functionalities**.🐉
 
 ### 📚 Continuous Growth
-I’m committed to continuous learning and always exploring new technologies to work on innovative projects.
+I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects.🧮
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
