@@ -2,7 +2,7 @@
 ## 🚀 About Me
 I’m a passionate developer with extensive experience in frontend development and creating responsive interfaces. I specialize in building dynamic and engaging web applications using modern technologies.
 
-## 💻 Skills & Expertise
+### 💻 Skills & Expertise
 Frontend Development: Proficient in JavaScript, TypeScript, and React.
 
 UI/UX Design: Focus on creating user-friendly and cross-browser compatible websites using HTML5, CSS3, JavaScript, and SASS.
