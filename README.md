@@ -17,7 +17,7 @@ I am an **experienced developer** specializing in **front-end development** and 
 
 ### 🌟 Portfolio Highlights
 
-+ Interactive & Responsive Interfaces: Creation of modern and **intuitive interfaces** with a focus on **user experience**. Utilized technologies like **React** and **SCS**S to build **dynamic** and **responsive** designs.🧚
++ Interactive & Responsive Interfaces: Creation of modern and **intuitive interfaces** with a focus on **user experience**. Utilized technologies like **React** and **SCSS** to build **dynamic** and **responsive** designs.🧚
 
 + Cross-Platform Solutions: Development of **websites and applications** that work efficiently across various **platforms**, ensuring high **performance** and **cross-browser compatibility**.🤖
 
