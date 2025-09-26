@@ -42,10 +42,6 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
 </p><br>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fajllovt42) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serjjinius@gmail.com) 
-
 # 💻 Tech Stack:
 
 ### 🔹 Core Technologies  
@@ -64,7 +60,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ---
 
 ### 🔹 Databases & Backend  
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]() [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)]() [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]() [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)]() [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()  
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]() [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)]() [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]() [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)]() [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]() [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 
 ---
 
@@ -105,7 +101,15 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxqM3JocnBxMHl5Y3V5ZWFxZ2JldWdvZ2s0aGViZ3ZtbWExdnhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif" />
 </p>
 
+## 🌐 Socials 📬:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fajllovt42) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serjjinius@gmail.com) 
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](mailto:serjjinius_sablin@mail.ru) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fajllovt42)
+
+
 ### 📬 Get in Touch
-- 📧 Gmail: serjjiniuss@gmail.com
 - 💼 Email: serjjinius_sablin@mail.ru
-- 🐙 GitHub: [github.com/Figrac0](https://github.com/Figrac0) 
+- 🐙 GitHub: [github.com/Figrac0](https://github.com/Figrac0)
