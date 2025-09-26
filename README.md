@@ -35,9 +35,6 @@ I am an **experienced developer** specializing in **front-end development** and 
 
 + Real-Time Integration Projects: Built **systems** providing **instant data updates** for users, including interactive **tables** and **search functionalities**.🐉
 
-### 📚 Continuous Growth
-I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects.🧮
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
 </p><br>
@@ -74,14 +71,17 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 
 
-# Continuous Growth
+# 📚 Continuous Growth 
 
 <p align="center">
-  <b><span style="color:orange; font-size:18px;">
+  <b>
     🚀 I am currently expanding my expertise in React Native and backend development with Node.js,  
     aiming to become a full-stack developer in the near future. 🌟
-  </span></b>
+  </b>
 </p>
+
+I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects. 🧮
+
 
 ![React Native](https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
