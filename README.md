@@ -109,7 +109,3 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fajllovt42)
 
-
-### 📬 Get in Touch
-- 💼 Email: serjjinius_sablin@mail.ru
-- 🐙 GitHub: [github.com/Figrac0](https://github.com/Figrac0)
