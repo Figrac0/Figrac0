@@ -51,8 +51,13 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # Continuous Growth
 
-I am currently expanding my expertise in **React Native** and **backend development with Node.js**,  
-aiming to become a **full-stack developer** in the near future.
+<p align="center">
+  <b><span style="color:orange; font-size:18px;">
+    🚀 I am currently expanding my expertise in React Native and backend development with Node.js,  
+    aiming to become a full-stack developer in the near future. 🌟
+  </span></b>
+</p>
+<br/>
 ![React Native](https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
