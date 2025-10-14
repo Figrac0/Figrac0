@@ -9,21 +9,22 @@ I am an **experienced developer** specializing in **front-end development** and 
 
 
 ### 💻 Skills & Expertise
-**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_.📍
+**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_. 📍
 
-**UI/UX Design:** Focus on creating user-friendly and cross-browser compatible websites using _HTML5, CSS3, JavaScript, and SASS_.📍
+**UI/UX Design:** Focused on building **user-friendly**, **responsive**, and **cross-browser compatible** interfaces using _HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, and modern JavaScript_.  
+Experienced in **component-based styling**, **animation design** (Framer Motion), and **design-to-code** workflows using **Figma**. 📍
 
-**Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_.📍
+**Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_. 📍
 
-**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in _C++ and Java_.📍
+**Optimization & Multithreading:** Enjoy tackling challenges in optimization and multithreading, particularly in _C++ and Java_. 📍
 
-**Cross-Platform Solutions:** Skilled in building dynamic websites using _modern frameworks and technologies_.📍
+**Cross-Platform Solutions:** Skilled in building dynamic websites using _modern frameworks and technologies_. 📍
 
-**Testing:** Utilize Jest and React Testing Library to ensure _high-quality applications_.📍
+**Testing:** Utilize Jest and React Testing Library to ensure _high-quality applications_. 📍
 
-**Tools & Workflow:** Experienced with _Git, GitHub, GitLab, VS Code, npm/yarn_, ensuring smooth collaboration and CI/CD workflows.📍
+**Tools & Workflow:** Experienced with _Git, GitHub, GitLab, VS Code, npm/yarn_, ensuring smooth collaboration and CI/CD workflows. 📍
 
-**Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments.📍
+**Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments. 📍
 
 > 💡 **Note:**  
 > Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
