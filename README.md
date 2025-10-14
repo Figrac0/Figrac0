@@ -25,15 +25,25 @@ I am an **experienced developer** specializing in **front-end development** and 
 
 **Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments.📍
 
+> 💡 **Note:**  
+> Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
+> This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
+
 ### 🌟 Portfolio Highlights
 
-+ Interactive & Responsive Interfaces: Creation of modern and **intuitive interfaces** with a focus on **user experience**. Utilized technologies like **React** and **SCSS** to build **dynamic** and **responsive** designs.🧚
++ **Interactive Interfaces:** Designed and developed **modern, responsive UIs** with a focus on **usability and performance**, using **React**, **TypeScript**, and **SCSS**. 🧠
 
-+ Cross-Platform Solutions: Development of **websites and applications** that work efficiently across various **platforms**, ensuring high **performance** and **cross-browser compatibility**.🤖
++ **Cross-Platform Applications:** Built **scalable web apps** optimized for all devices with **cross-browser** and **adaptive** layouts. ⚙️
 
-+ Automated Booking Systems: Development and **optimization** of **web applications** for **booking**, including **real-time integrations** and **user-centric interfaces**.🧙
++ **Automated Booking Systems:** Implemented **real-time cinema booking platforms** with **JWT authentication**, **dynamic filtering**, and **secure data flow**. 🎬
 
-+ Real-Time Integration Projects: Built **systems** providing **instant data updates** for users, including interactive **tables** and **search functionalities**.🐉
++ **Data-Driven Dashboards:** Created **admin panels** and **analytics systems** with advanced **state management**, **calendar integration**, and **API connectivity**. 📊
+
++ **API-Based Solutions:** Integrated and visualized data from **public APIs** (Marvel, Firebase, custom REST endpoints) to build **interactive and educational projects**. 🦸
+
++ **Custom JavaScript Library:** Engineered a reusable **SPA-component library** (modals, datepickers, accordions, tooltips) with **router** and **state management** modules. 🧩
+
++ **Performance-Optimized React Projects:** Explored **React rendering mechanics**, applying **memoization hooks** and **Virtual DOM optimization** for smoother UX. ⚡
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
