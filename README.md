@@ -99,8 +99,13 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
+</p>
+
 
 
 
