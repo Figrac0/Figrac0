@@ -102,7 +102,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
 </p>
 
