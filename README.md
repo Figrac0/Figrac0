@@ -119,4 +119,3 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](mailto:serjjinius_sablin@mail.ru) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fajllovt42)
-
