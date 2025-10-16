@@ -102,8 +102,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
-<img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/>
-</br>
+  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/></br>
   <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
 
 </p>
