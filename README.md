@@ -100,7 +100,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Figrac0&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=javascript)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
