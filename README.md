@@ -101,17 +101,11 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 # 📊 GitHub Stats:
 
 
-# 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=aura&hide_border=false&count_private=true" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&layout=compact" alt="Top Langs"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Figrac0&theme=aura" alt="Commit Time"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&margin-w=4" alt="Trophies"/>
 </p>
 
 
