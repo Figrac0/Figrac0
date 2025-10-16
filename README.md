@@ -106,7 +106,8 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=Figrac0&icon=3&color=10)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.vercel.app/?user=Figrac0&theme=aura&hide_border=false)
+
 
 
 
