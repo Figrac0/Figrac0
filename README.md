@@ -100,7 +100,6 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # 📊 GitHub Stats:
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
   <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=false" alt="GitHub Streak"/></br>
@@ -108,16 +107,10 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 </p>
 
-
-
-
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
