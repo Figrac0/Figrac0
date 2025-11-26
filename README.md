@@ -11,7 +11,7 @@ I am an **experienced developer** specializing in **front-end development** and 
 ### 💻 Skills & Expertise
 **Frontend Development:** Proficient in _JavaScript, TypeScript, and React_. 📍
 
-**UI/UX Design:** Focused on building **user-friendly**, **responsive**, and **cross-browser compatible** interfaces using _HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, and modern JavaScript_.  
+**UI/UX Design:** Focused on building **user-friendly**, **responsive**, and **cross-browser compatible** interfaces using _HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, Framer Motion, React Animations and modern JavaScript_.  
 Experienced in **component-based styling**, **animation design** (Framer Motion), and **design-to-code** workflows using **Figma**. 📍
 
 **Backend Integration:** Experienced in developing responsive web applications with _React, Node.js, and PostgreSQL, including seamless API integrations_. 📍
@@ -55,17 +55,21 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 # 💻 Tech Stack:
 
 ### 🔹 Core Technologies  
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]() 
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+
 
 ---
 
 ### 🔹 Web Development & UI/UX  
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]() [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)]() [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]() [![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)]()  
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]() [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)]() [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]() [![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)]()  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)]()
+[![React Animations](https://img.shields.io/badge/React_Animations-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 
 ---
 
 ### 🔹 Frameworks & Libraries  
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)]() [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]() [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)]() [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)]() [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]() [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]() 
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)]() [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]() [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)]() [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)]() [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]() [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]() [![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)]()
+
 
 ---
 
@@ -135,16 +139,16 @@ Frontend-разработчик. Специализация – создание
 ### Навыки
 
 **Frontend**
-JavaScript, TypeScript, React
+JavaScript, TypeScript, React, Next
 
 **Интерфейсы и вёрстка**
-HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, Figma
+HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, Framer Motion, React Animations, Figma
 
 **Интеграция с сервером**
-React + REST API, Node.js, PostgreSQL
+React + REST API, Node.js, PostgreSQL, SQLite, MongoDB
 
 **Производительность**
-Оптимизация рендеринга, анализ производительности, опыт многопоточности в C++ и Java
+Оптимизация рендеринга, анализ производительности, опыт многопоточности в C++ и Java, Python
 
 **Архитектура веб-приложений**
 SPA, компонентный подход, единый стиль кодирования и структурирования
@@ -182,7 +186,7 @@ Git, GitHub, GitLab, npm/yarn, CI/CD
 React, JavaScript, TypeScript
 
 **Дополнительно**
-Node.js, Redux, React Router, React Query, React Hook Form, Vue.js, Angular
+Node.js, Redux, Tanstack Query, React Router, React Query, React Hook Form, Vue.js, Angular
 
 **Базы данных**
 PostgreSQL, MySQL, MongoDB, Firebase, SQLite
@@ -191,7 +195,7 @@ PostgreSQL, MySQL, MongoDB, Firebase, SQLite
 Git, GitHub, Webpack, Gulp, WordPress, Google Cloud, Web3.js
 
 **Языки общего назначения**
-C++
+C++, Python
 
 ---
 
