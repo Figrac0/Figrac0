@@ -102,22 +102,23 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&layout=compact" alt="Top Langs" /></br>
-  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&layout=compact" alt="Top Langs" />
+  <br/>
+  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
+
 
 
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxqM3JocnBxMHl5Y3V5ZWFxZ2JldWdvZ2s0aGViZ3ZtbWExdnhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 🌐 Socials 📬:
