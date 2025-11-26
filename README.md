@@ -32,17 +32,19 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 
 ### 🌟 Portfolio Highlights
 
++ **Avatar Type Recognition Research:** Built a full experimental pipeline for **three-class avatar classification** (real, drawing, generated) with analysis of **class imbalance effects**, **CNN robustness metrics**, and **Grad-CAM attention**. Presented at the **International Congress on Computer and Information Sciences 2025 (MSU)**.
+
++ **Custom JavaScript Library:** Engineered a reusable **SPA-component library** (modals, datepickers, accordions, tooltips) with **router** and **state management** modules. 🧩
+
++ **Automated Booking Systems:** Implemented **real-time cinema booking platforms** with **JWT authentication**, **dynamic filtering**, and **secure data flow**. 🎬
+
 + **Interactive Interfaces:** Designed and developed **modern, responsive UIs** with a focus on **usability and performance**, using **React**, **TypeScript**, and **SCSS**. 🧠
 
 + **Cross-Platform Applications:** Built **scalable web apps** optimized for all devices with **cross-browser** and **adaptive** layouts. ⚙️
 
-+ **Automated Booking Systems:** Implemented **real-time cinema booking platforms** with **JWT authentication**, **dynamic filtering**, and **secure data flow**. 🎬
-
 + **Data-Driven Dashboards:** Created **admin panels** and **analytics systems** with advanced **state management**, **calendar integration**, and **API connectivity**. 📊
 
 + **API-Based Solutions:** Integrated and visualized data from **public APIs** (Marvel, Firebase, custom REST endpoints) to build **interactive and educational projects**. 🦸
-
-+ **Custom JavaScript Library:** Engineered a reusable **SPA-component library** (modals, datepickers, accordions, tooltips) with **router** and **state management** modules. 🧩
 
 + **Performance-Optimized React Projects:** Explored **React rendering mechanics**, applying **memoization hooks** and **Virtual DOM optimization** for smoother UX. ⚡
 
@@ -100,25 +102,17 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # 📊 GitHub Stats:
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&layout=compact" alt="Top Langs" />
-  <br/>
-  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
+  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
 </p>
-
-
-
-
 
 ## 🏆 GitHub Trophies
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 🌐 Socials 📬:
@@ -128,3 +122,103 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](mailto:serjjinius_sablin@mail.ru) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fajllovt42)
+
+---
+
+# Привет, меня зовут Сергей
+
+### О себе
+Я занимаюсь frontend-разработкой и созданием адаптивных пользовательских интерфейсов. Использую современные технологии для построения производительных веб-приложений. В работе придерживаюсь точности, внимания к деталям и системного подхода.
+
+---
+
+### Навыки и компетенции
+
+**Frontend-разработка**
+JavaScript, TypeScript, React.  
+
+**UI/UX и вёрстка**
+HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS. Работа с графикой и макетами в Figma. Компонентный подход, адаптивность, поддержка современных браузеров.
+
+**Интеграция с backend**
+Опыт разработки приложений на React с взаимодействием через REST API. Node.js, PostgreSQL.
+
+**Оптимизация и многопоточность**
+Интерес к задачам оптимизации, работе с потоками и производительностью в C++ и Java.
+
+**Кроссплатформенные веб-решения**
+Проектирование архитектуры SPA, использование фреймворков и модульности.
+
+**Тестирование**
+Jest, React Testing Library.
+
+**Рабочие процессы**
+Git, GitHub, GitLab, npm/yarn, CI/CD.
+
+**Софт-скиллы**
+Рациональное решение задач, способность работать в команде, ориентир на результат.
+
+---
+
+### Проекты
+
++ **Avatar Type Recognition Research**
+  Экспериментальный пайплайн по классификации аватаров на три типа: реальные, нарисованные и сгенерированные изображения. Анализ влияния дисбаланса классов, устойчивости моделей и Grad-CAM интерпретации. Представлен на Международном конгрессе «Современные проблемы компьютерных и информационных наук 2025» (МГУ).
+
++ **JavaScript-библиотека для SPA**
+  Разработка собственной библиотеки UI-компонентов: модальные окна, календарь, аккордеон, тултипы, маршрутизация и глобальное состояние.
+
++ **Система бронирования**
+  Реализация онлайн-бронирования киносеансов: авторизация с токеном, фильтрация данных, защищённый обмен с сервером.
+
++ **Пользовательские интерфейсы**
+  Проектирование и создание интерфейсов с упором на производительность и удобство использования. React, TypeScript, SCSS.
+
++ **Кроссплатформенные веб-приложения**
+  Разработка адаптивных интерфейсов под разные устройства и разрешения.
+
++ **Админ-панели и аналитика**
+  Панели управления и системы аналитики с календарём, фильтрами и взаимодействием с API.
+
++ **Интеграция с внешними API**
+  Проекты на основе открытых источников данных: Firebase, Marvel API и собственные REST-сервисы.
+
++ **Оптимизация React-приложений**
+  Управление рендерами, мемоизация, оптимизация Virtual DOM.
+
+---
+
+### Технологии
+
+**Основные**
+React, JavaScript, TypeScript, Node.js
+
+**Вёрстка и UX**
+HTML5, CSS3, SASS/SCSS, Figma, адаптивные интерфейсы
+
+**Фреймворки**
+Redux, React Router, React Query, React Hook Form, Vue.js, Angular
+
+**Базы данных и backend**
+MySQL, PostgreSQL, MongoDB, Django, PHP, Firebase, SQLite
+
+**Инструменты**
+Git, GitHub, NPM, Webpack, Gulp, Less, WordPress, OpenStack, Google Cloud, Web3.js
+
+**Дополнительно**
+C++
+
+---
+
+### Развитие навыков
+В данный момент изучаю React Native и усиливаю компетенции в backend-разработке на Node.js. Цель – полный переход к full-stack уровню.
+
+---
+
+### Контакты
+[Discord](https://discord.gg/.sabilin)  
+[Instagram](https://instagram.com/fajllovt42)  
+[Email](mailto:serjjinius@gmail.com)  
+[Mail.ru](mailto:serjjinius_sablin@mail.ru)  
+[GitHub](https://github.com/Figrac0)  
+[Telegram](https://t.me/fajllovt42)
