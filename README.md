@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Sergey,<br>
 ### 🚀 About Me
-<a href="https://figrac0.github.io/" target="_blank">
+<a href="https://figrac0.github.io/" target="_blank" align="center">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=for-the-badge" />
 </a>
 
