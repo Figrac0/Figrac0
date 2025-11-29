@@ -1,8 +1,14 @@
 # 👋 Hi, my name is Sergey,<br>
 ### 🚀 About Me
-<a href="https://figrac0.github.io/" target="_blank" align="center">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://figrac0.github.io/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
 
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
 
