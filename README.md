@@ -15,7 +15,7 @@ I am an **experienced developer** specializing in **front-end development** and 
 
 
 ### 💻 Skills & Expertise
-**Frontend Development:** Proficient in _JavaScript, TypeScript, and React_. 📍
+**Frontend Development:** Proficient in _JavaScript, TypeScript, Next.js and React_. 📍
 
 **UI/UX Design:** Focused on building **user-friendly**, **responsive**, and **cross-browser compatible** interfaces using _HTML5, CSS3, SASS/SCSS, Bootstrap, TailwindCSS, React Animations and modern JavaScript_.  
 Experienced in **component-based styling**, **animation design** (Framer Motion), and **design-to-code** workflows using **Figma**. 📍
