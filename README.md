@@ -121,7 +121,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Figrac0&theme=dark" />
 </p>
 
 
