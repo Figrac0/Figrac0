@@ -15,7 +15,7 @@
 
 
   <span>
-    <a href="mailto:serjjiniuss@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
       <img src="https://img.icons8.com/?size=64&id=48165&format=png" alt="Email" width="40" height="40" />
     </a>
   </span>
@@ -30,7 +30,7 @@
     </a>
   </span>
   <span>
-    <a href="https://t.me/@fajllovt42" target="_blank">
+    <a href="https://web.telegram.org/k/#@fajllovt42" target="_blank">
       <img src="https://img.icons8.com/?size=64&id=114954&format=png" alt="Telegram" width="40" height="40" />
     </a>
   </span>
