@@ -11,7 +11,7 @@
 
 ### 📬 Contact Me
 
- <p align="center">
+
   <a href="mailto:serjjiniuss@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" width="40" height="40" /><br/>
   </a>
@@ -24,7 +24,7 @@
   <a href="https://t.me/@fajllovt42" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="Telegram" width="40" height="40" /><br/>
   </a>
-</p>
+
 
 
 
