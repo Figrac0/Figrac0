@@ -116,23 +116,14 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Figrac0&theme=aura" alt="Top Langs"/></br>
   <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Figrac0&theme=aura" />
 </p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Figrac0&theme=dark" />
-</p>
-
 
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
-
-
-
 
 
 ## 🌐 Socials 📬:
