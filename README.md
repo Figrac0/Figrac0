@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Sergey,<br>
-### 🚀 About Me
+
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
@@ -12,19 +12,20 @@
 ### 📬 Contact Me
 <p align="center">
   <a href="mailto:serjjiniuss@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-6A4CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" />
   </a>
   <a href="https://wa.me/89276871214" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://cdn-icons-png.flaticon.com/128/16566/16566143.png" alt="WhatsApp" />
   </a>
   <a href="https://vk.com/id665985928" target="_blank">
-    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="VK" />
   </a>
   <a href="https://t.me/@fajllovt42" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="Telegram" />
   </a>
 </p>
 
+### 🚀 About Me
 
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
 
