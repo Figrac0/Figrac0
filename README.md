@@ -132,10 +132,13 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USER&show_icons=true&theme=github_dark" />
+## GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=ВАШ_USER&theme=darkorange" />
-<img src="https://github-profile-trophy.vercel.app/?username=ВАШ_USER&theme=blueberry" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs?username=Figrac0&theme=dark" />
+</p>
 
 
 
