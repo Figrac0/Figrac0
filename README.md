@@ -1,9 +1,6 @@
 # 👋 Hi, my name is Sergey,<br>
 
-<!-- Adding the GIF above the text -->
-<p align="center">
-  <img src="https://cs6.pikabu.ru/post_img/2017/08/26/5/1503733613188230194.gif" alt="Intro GIF" width="200" height="200" />
-</p>
+
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
