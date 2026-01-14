@@ -1,18 +1,18 @@
 # 👋 Hi, my name is Sergey,
 <br/>
 
----
+
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00"
-      alt="Portfolio"
-    />
+    <button style="background: linear-gradient(45deg, #FF8C00, #FFA500); border: none; padding: 12px 30px; color: white; font-size: 16px; border-radius: 8px; cursor: pointer; transition: all 0.3s ease;">
+      Visit My Portfolio
+    </button>
   </a>
 </p>
 
----
+
+
 
 ### 📬 Contact Me
 
