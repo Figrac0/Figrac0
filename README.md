@@ -111,19 +111,19 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
-  <!-- Только самые стабильные виджеты -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=default" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
+  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
 </p>
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=flat&no-frame=true&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 📈 Activity Graph
