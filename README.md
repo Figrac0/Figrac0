@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/👨‍💻_My_Portfolio-00ADB5?style=for-the-badge&logo=github&logoColor=white"
       alt="Portfolio"
     />
   </a>
