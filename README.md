@@ -111,20 +111,31 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Figrac0?label=Total%20Stars&color=blue&style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/Figrac0?label=Followers&style=for-the-badge&color=green" alt="Followers"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Figrac0?label=Monthly%20Commits&style=for-the-badge" alt="Monthly Commits"/>
-  <img src="https://img.shields.io/github/last-commit/Figrac0?label=Last%20Commit&style=for-the-badge" alt="Last Commit"/>
+  <!-- Top Languages (обычно самый стабильный) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=true&layout=compact&card_width=400" alt="Top Languages" height="165"/>
+  
+  <!-- GitHub Stats (более стабильная альтернатива) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&theme=aura&show_icons=true&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" height="165"/>
+  
+  <!-- Streak Stats (может не работать на GitHub) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Figrac0&theme=aura&hide_border=true&card_width=400" alt="GitHub Streak" height="165"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 </p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+</p>
+
 ## 🌐 Socials 📬:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fajllovt42) 
