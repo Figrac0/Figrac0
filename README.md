@@ -1,13 +1,4 @@
-# 👋 Hi, my name is Sergey,<br>
-
-<div align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG50MHc3YmM0ODU1bHlnc2ZxYWlncHZ1c3QyMmR6dW1vNjk2OWJmZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MuDevakrscnni/200.webp" 
-    width="100%" 
-    style="max-width: 100%; height: auto; display: block;"
-    alt="Animated GIF"
-  />
-</div>
+# 👋 Hi, my name is Sergey,
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
