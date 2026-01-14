@@ -11,18 +11,20 @@
 
 ### 📬 Contact Me
 
-  <a href="mailto:serjjiniuss@gmail.com" target="_blank" style="text-decoration: none;">
+  <p align="center">
+  <a href="mailto:serjjiniuss@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" width="40" height="40" />
   </a>
-  <a href="https://wa.me/89276871214" target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/89276871214" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/16566/16566143.png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://vk.com/id665985928" target="_blank" style="text-decoration: none;">
+  <a href="https://vk.com/id665985928" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="VK" width="40" height="40" />
   </a>
-  <a href="https://t.me/@fajllovt42" target="_blank" style="text-decoration: none;">
+  <a href="https://t.me/@fajllovt42" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="Telegram" width="40" height="40" />
   </a>
+</p>
 
 
 
