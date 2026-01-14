@@ -4,9 +4,15 @@
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=flat&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
+      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
       alt="Portfolio" 
-      style="border-radius: 10px; padding: 5px 20px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" />
+      style="
+        border-radius: 12px; 
+        padding: 8px 30px; 
+        box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.25);
+        transform: scale(1.1);
+        font-size: 18px;
+      " />
   </a>
 </p>
 
