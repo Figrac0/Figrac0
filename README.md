@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=flat&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
-      alt="Portfolio" 
-      style="border-radius: 10px; padding: 5px 20px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" />
+    <button style="font-size: 16px; padding: 12px 30px; background-color: #FF8C00; color: white; border: 2px solid #FF8C00; border-radius: 8px; cursor: pointer; transition: 0.4s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      Visit My Portfolio
+    </button>
   </a>
 </p>
+
 
 
 
