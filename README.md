@@ -1,11 +1,23 @@
 # 👋 Hi, my name is Sergey,
 
 <p align="center">
-  <a href="https://figrac0.github.io/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=linear-gradient(90deg,%20#8A2BE2,%20#00BFFF)"
-      alt="Portfolio"
-    />
+  <a href="https://figrac0.github.io/" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-block;
+      background: linear-gradient(45deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+      text-align: center;
+    ">
+      🌐 Visit My Portfolio
+    </div>
   </a>
 </p>
 
