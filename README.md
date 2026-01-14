@@ -115,36 +115,18 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <!-- Только самые стабильные виджеты -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=default" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=default" alt="Top Langs" />
+</p>
 
-## GitHub Analytics
+## 🏆 Achievements
 
-### 📈 Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=dark&hide_border=true)
-
-### 💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=dark&hide_border=true)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Figrac0&theme=dark&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=onedark&no-frame=true&row=2&column=4)
-
-</div>
-
-## 📊 Activity Overview
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=github-dark&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=flat&no-frame=true&row=1" alt="Trophies" />
+</p>
 
 ## 🌐 Socials 📬:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
