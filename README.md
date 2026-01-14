@@ -113,19 +113,29 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
-  <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=true&layout=compact&card_width=400" alt="Top Languages" height="165"/>
+  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&theme=aura&show_icons=true&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" height="165"/>
+  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Figrac0&theme=aura&hide_border=true&card_width=400" alt="GitHub Streak" height="165"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
 
 ## 🌐 Socials 📬:
