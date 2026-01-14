@@ -11,7 +11,7 @@
 
 ### 📬 Contact Me
 
-<div style="display: flex; gap: 15px; margin-top: 10px;">
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=64&id=48165&format=png" alt="Email" width="40" height="40" />
   </a>
@@ -24,7 +24,7 @@
   <a href="https://web.telegram.org/k/#@fajllovt42" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=64&id=114954&format=png" alt="Telegram" width="40" height="40" />
   </a>
-</div>
+
 
 ### 🚀 About Me
 
