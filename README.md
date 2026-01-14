@@ -114,20 +114,16 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 # 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages (обычно самый стабильный) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=true&layout=compact&card_width=400" alt="Top Languages" height="165"/>
-  
-  <!-- GitHub Stats (более стабильная альтернатива) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&theme=aura&show_icons=true&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" height="165"/>
-  
-  <!-- Streak Stats (может не работать на GitHub) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Figrac0&theme=aura&hide_border=true&card_width=400" alt="GitHub Streak" height="165"/>
+  <!-- Только самые стабильные виджеты -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=default" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=flat&no-frame=true&row=1" alt="Trophies" />
 </p>
 
 ## 📈 Activity Graph
