@@ -115,35 +115,36 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <!-- 1. GitHub Stats Card (самый стабильный) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&count_private=true&hide_border=true&theme=aura&hide_title=false" alt="GitHub Stats" height="165"/>
-  
-  <!-- 2. Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&hide_border=true&theme=aura&langs_count=6" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- 3. Streak Stats (альтернативный сервис) -->
-  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=aura&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="165"/>
-  
-  <!-- 4. Summary Card (опционально) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Figrac0&theme=aura" alt="Profile Details" height="165"/>
-</p>
+## GitHub Analytics
+
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=dark&hide_border=true)
+
+### 💻 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=dark&hide_border=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Figrac0&theme=dark&hide_border=true)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <!-- GitHub Trophies (стабильная версия) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<div align="center">
 
-## 📈 Activity Graph
+![Trophies](https://github-profile-trophy.vercel.app/?username=Figrac0&theme=onedark&no-frame=true&row=2&column=4)
 
-<p align="center">
-  <!-- Activity Graph (альтернативный сервис) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
-</p>
+</div>
+
+## 📊 Activity Overview
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=github-dark&hide_border=true&area=true)
+
+</div>
 
 ## 🌐 Socials 📬:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
