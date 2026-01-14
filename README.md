@@ -1,5 +1,10 @@
 # 👋 Hi, my name is Sergey,<br>
 
+<!-- Adding the GIF above the text -->
+<p align="center">
+  <img src="https://cs6.pikabu.ru/post_img/2017/08/26/5/1503733613188230194.gif" alt="Intro GIF" width="200" height="200" />
+</p>
+
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
@@ -12,27 +17,28 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <span >
-  <a href="mailto:serjjiniuss@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" width="40" height="40" />
-  </a>
-    </span>
-  <span >
-  <a href="https://wa.me/89276871214" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/16566/16566143.png" alt="WhatsApp" width="40" height="40" />
-  </a>
-    </span>
-  <span >
-  <a href="https://vk.com/id665985928" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="VK" width="40" height="40" />
-  </a>
-     </span>
- <span >
-  <a href="https://t.me/@fajllovt42" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="Telegram" width="40" height="40" />
-  </a>
-   </span>
+  <span>
+    <a href="mailto:serjjiniuss@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" width="40" height="40" />
+    </a>
+  </span>
+  <span>
+    <a href="https://wa.me/89276871214" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/16566/16566143.png" alt="WhatsApp" width="40" height="40" />
+    </a>
+  </span>
+  <span>
+    <a href="https://vk.com/id665985928" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/2504/2504953.png" alt="VK" width="40" height="40" />
+    </a>
+  </span>
+  <span>
+    <a href="https://t.me/@fajllovt42" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" alt="Telegram" width="40" height="40" />
+    </a>
+  </span>
 </p>
+
 
 
 
