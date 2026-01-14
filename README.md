@@ -113,14 +113,30 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
-<div align="center">
+# 📊 GitHub Stats
 
-## 🚀 GitHub Analytics
+<p align="center">
+  <!-- Top Languages (обычно самый стабильный) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=true&layout=compact&card_width=400" alt="Top Languages" height="165"/>
+  
+  <!-- GitHub Stats (более стабильная альтернатива) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&theme=aura&show_icons=true&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" height="165"/>
+  
+  <!-- Streak Stats (может не работать на GitHub) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Figrac0&theme=aura&hide_border=true&card_width=400" alt="GitHub Streak" height="165"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&layout=compact&theme=radical&hide_border=true)
+## 🏆 GitHub Trophies
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+</p>
 
 ## 🌐 Socials 📬:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
