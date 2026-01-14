@@ -9,6 +9,22 @@
   </a>
 </p>
 
+### 📬 Contact Me
+<p align="center">
+  <a href="mailto:serjjiniuss@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-6A4CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/89276871214" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://vk.com/id665985928" target="_blank">
+    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
+  <a href="https://t.me/@fajllovt42" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
 
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
 
