@@ -132,20 +132,11 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=aura&hide_border=false" alt="GitHub Stats"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USER&show_icons=true&theme=github_dark" />
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Figrac0&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ВАШ_USER&theme=darkorange" />
+<img src="https://github-profile-trophy.vercel.app/?username=ВАШ_USER&theme=blueberry" />
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
-</p>
 
 
 ## 🌐 Socials 📬:
