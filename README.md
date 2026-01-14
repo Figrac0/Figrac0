@@ -11,7 +11,7 @@
 
 ### 📬 Contact Me
 
-<div style="display: flex; gap: 25px; margin-top: 10px;">
+<div style="display: flex; justify-content: space-around; margin-top: 10px; width: 100%;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=64&id=48165&format=png" alt="Email" width="40" height="40" />
   </a>
