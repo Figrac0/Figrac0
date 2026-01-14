@@ -114,7 +114,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figrac0&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/></br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)</br>
   <img src="https://streak-stats.vercel.app?user=Figrac0&theme=aura&hide_border=false&background=0d1117&ring=6A9FB5&fire=F6C177&currStreakNum=F6C177&sideNums=9CCFD8&currStreakLabel=E0DEF4&sideLabels=E0DEF4&dates=6A9FB5" alt="GitHub Streak"/></br>
   <img src="https://github-contributor-stats.vercel.app/api?username=Figrac0&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Contributor Stats"/></br>
 </p>
@@ -132,13 +132,7 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Figrac0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Figrac0&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=Figrac0&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs?username=Figrac0&theme=dark" />
-</p>
 
 
 
