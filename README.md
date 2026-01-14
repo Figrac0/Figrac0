@@ -13,22 +13,18 @@
 
  <p align="center">
   <a href="mailto:serjjiniuss@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Envelope_icon_2.svg/1200px-Envelope_icon_2.svg.png" alt="Email" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Envelope_icon_2.svg/1200px-Envelope_icon_2.svg.png" alt="Email" width="40" height="40" style="display: block; margin: 0 auto;" />
   </a>
   <a href="https://wa.me/89276871214" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/WhatsApp_icon.png" alt="WhatsApp" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/WhatsApp_icon.png" alt="WhatsApp" width="40" height="40" style="display: block; margin: 0 auto;" />
   </a>
   <a href="https://vk.com/id665985928" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/VK.com-logo.svg" alt="VK" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/VK.com-logo.svg" alt="VK" width="40" height="40" style="display: block; margin: 0 auto;" />
   </a>
   <a href="https://t.me/@fajllovt42" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" style="display: block; margin: 0 auto;" />
   </a>
 </p>
-
-
-
-
 
 
 ### 🚀 About Me
