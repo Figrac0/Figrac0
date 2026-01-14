@@ -1,20 +1,14 @@
 # 👋 Hi, my name is Sergey,
 <br/>
 
-
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
-    <button style="background-color: #1a1a1a; color: #fff; font-size: 18px; padding: 15px 40px; border-radius: 50px; border: none; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-      Visit My Portfolio
-    </button>
+    <img 
+      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=flat&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
+      alt="Portfolio" 
+      style="border-radius: 10px; padding: 5px 20px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" />
   </a>
 </p>
-
-
-
-
-
-
 
 ### 📬 Contact Me
 
