@@ -1,6 +1,8 @@
 # 👋 Hi, my name is Sergey,
 <br/>
+
 ---
+
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
@@ -9,7 +11,9 @@
     />
   </a>
 </p>
+
 ---
+
 ### 📬 Contact Me
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
