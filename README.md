@@ -11,8 +11,8 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
       <img
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmEzM3JiZHE1cWd0aHV3c2IwbjlvZGp5YXN0OTlqOTU5cTFhMDlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oJqeXsRlXb6F2/giphy.gif"
-        width="54"
-        height="54"
+        width="58"
+        height="58"
         alt="Gmail"
       />
     </a>
@@ -22,8 +22,8 @@
     <a href="https://wa.me/89276871214" target="_blank">
       <img
         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OrNkIcgmjBQeFM1vEs/giphy.webp"
-        width="52"
-        height="52"
+        width="56"
+        height="56"
         alt="WhatsApp"
       />
     </a>
@@ -33,8 +33,8 @@
     <a href="https://vk.com/id665985928" target="_blank">
       <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1o6rpNIRjOgR9eR1Wj/giphy.webp"
-        width="43"
-        height="43"
+        width="47"
+        height="47"
         alt="VK"
       />
     </a>
@@ -44,8 +44,8 @@
     <a href="https://t.me/fajllovt42" target="_blank">
       <img
         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxa3NjcXFsdmpxMGxnYmx3dHdoOGRkdTRucm00NmJmbGJjMGkzMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KAyJgCjqr2q5K2QL54/giphy.webp"
-        width="43"
-        height="43"
+        width="47"
+        height="47"
         alt="Telegram"
       />
     </a>
