@@ -86,20 +86,25 @@
 ```json
 {
   "_meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "format": "profile-config",
     "lastUpdated": "2026-01"
   },
   "aboutMe": {
     "role": "Frontend Developer",
-    "description": "Experienced developer specializing in front-end development and adaptive interfaces.
-     Focused on building dynamic, high-performance web applications with attention to detail and
-     continuous skill improvement."
+    "description": "Experienced developer specializing in front-end development and adaptive interfaces. Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
   },
   "skills": {
     "💻 frontend": {
       "languages": ["JavaScript", "TypeScript"],
-      "frameworks": ["React", "Next.js"]
+      "frameworks": ["React", "Next.js"],
+      "reactEcosystem": [
+        "Redux",
+        "React Router",
+        "React Hook Form",
+        "React Query",
+        "TanStack Query"
+      ]
     },
     "🎨 uiUx": {
       "technologies": ["HTML5", "CSS3", "SASS/SCSS", "Bootstrap", "TailwindCSS"],
@@ -107,14 +112,19 @@
       "designTools": ["Figma"]
     },
     "⚙️ backendIntegration": {
-      "technologies": ["Node.js", "PostgreSQL"]
+      "technologies": ["Node.js", "PostgreSQL", "SQLite"]
     },
     "optimization": {
       "areas": ["Performance Optimization", "Multithreading"],
       "languages": ["C++", "Java"]
-    }
+    },
+    "containerization": {
+      "tools": ["Docker"]
+    },
+    "additionalLanguages": ["Python", "PHP"]
   }
 }
+
 
 ```
 
