@@ -7,19 +7,40 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="36"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
+    <img
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF4YzZyc2k5aXJ3OHMwemQxcTV6Y3Rpb3hkaDRxMXB2c3RienpqdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.webp"
+      width="42"
+      height="42"
+      alt="Gmail"
+    />
   </a>
-  <a href="https://wa.me/89276871214">
-    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="36"/>
+  <a href="https://wa.me/89276871214" target="_blank">
+    <img
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jU9PVpqUvR0aNc3nvX/giphy.webp"
+      width="42"
+      height="42"
+      alt="WhatsApp"
+    />
   </a>
-  <a href="https://vk.com/id665985928">
-    <img src="https://img.icons8.com/ios-filled/50/0077FF/vk-circled.png" width="36"/>
+  <a href="https://vk.com/id665985928" target="_blank">
+    <img
+      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4fGNh8cEOdGWa2hA4z/200.webp"
+      width="42"
+      height="42"
+      alt="VK"
+    />
   </a>
-  <a href="https://t.me/fajllovt42">
-    <img src="https://img.icons8.com/ios-filled/50/26A5E4/telegram-app.png" width="36"/>
+  <a href="https://t.me/fajllovt42" target="_blank">
+    <img
+      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg2eWdvdmpkbHRscjh6dXFybzEycHhzYzZiNTVtMTFtMm5id2RtOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.webp"
+      width="42"
+      height="42"
+      alt="Telegram"
+    />
   </a>
 </p>
+
 
 
 
