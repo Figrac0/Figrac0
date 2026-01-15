@@ -6,6 +6,44 @@
   </a>
 </p>
 
+<div>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      alt="Email"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/89276871214" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/whatsapp/25D366"
+      alt="WhatsApp"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vk.com/id665985928" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/vk/0077FF"
+      alt="VK"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/fajllovt42" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/telegram/26A5E4"
+      alt="Telegram"
+      width="36"
+      height="36"
+    />
+  </a>
+</div>
+
 
 ### 📬 Contact Me
 
