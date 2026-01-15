@@ -32,8 +32,8 @@
   <a href="https://vk.com/id665985928" target="_blank">
     <img
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1o6rpNIRjOgR9eR1Wj/giphy.webp"
-      width="63"
-      height="63"
+      width="43"
+      height="43"
       alt="VK"
     />
   </a>
