@@ -53,25 +53,25 @@
 </div>
 
 
+<!--
 ### 📬 Contact Me
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=64&id=48165&format=png" alt="Email" width="40" height="40" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=48165&format=png" width="40" height="40" />
   </a>
-  <span style="width: 20px;"></span>
-  <a href="https://wa.me/89276871214" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=64&id=43677&format=png" alt="WhatsApp" width="40" height="40" />
+  <a href="https://wa.me/89276871214" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=43677&format=png" width="40" height="40" />
   </a>
-  <span style="width: 20px;"></span>
-  <a href="https://vk.com/id665985928" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=64&id=48220&format=png" alt="VK" width="40" height="40" />
+  <a href="https://vk.com/id665985928" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=48220&format=png" width="40" height="40" />
   </a>
-  <span style="width: 20px;"></span>
-  <a href="https://web.telegram.org/k/#@fajllovt42" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=64&id=114954&format=png" alt="Telegram" width="40" height="40" />
+  <a href="https://web.telegram.org/k/#@fajllovt42" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=114954&format=png" width="40" height="40" />
   </a>
 </div>
+-->
+
 
 ### 🚀 About Me
 
