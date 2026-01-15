@@ -108,9 +108,9 @@
     }
   }
 }
+</details> ```
 
-
-
+<!--
 ### 🚀 About Me
 
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
@@ -134,6 +134,7 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 **Tools & Workflow:** Experienced with _Git, GitHub, GitLab, VS Code, npm/yarn_, ensuring smooth collaboration and CI/CD workflows. 📍
 
 **Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments. 📍
+-->
 
 > 💡 **Note:**  
 > Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
