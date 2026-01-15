@@ -1,6 +1,18 @@
 # 👋 Hi, my name is Sergey,
 <br/>
 
+<img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdldGI2YjdhejVpbnFiM3pidDI5emowcmVpcnJwNnI0MW81M2h5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.gif"
+  alt="Banner"
+  style="
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+    display: block;
+    margin: 16px 0;
+  "
+/>
+
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
@@ -12,7 +24,8 @@
         box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.25);
         transform: scale(1.1);
         font-size: 18px;
-      " />
+      " 
+    />
   </a>
 </p>
 
