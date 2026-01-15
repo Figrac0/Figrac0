@@ -293,24 +293,18 @@ This allows you to quickly explore the **interface** and **functionality** witho
 <p align="center">
   <b>
     🚀 I am currently expanding my expertise in React Native and backend development with Node.js,  
-    aiming to become a full-stack developer in the near future. 🌟
+    aiming to become a full-stack developer in the near future.
   </b>
 </p>
 
-I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects. 🧮
-
-
-![React Native](https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
-![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
+I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" alt="Node.js Backend" />
+  <img src="https://img.shields.io/badge/Node.js-API%20%26%20Services-darkgreen?style=for-the-badge&logo=node.js" alt="Node.js API" />
   <img src="https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge" alt="Fullstack" />
 </p>
-
-
 
 <h1>
   <img
