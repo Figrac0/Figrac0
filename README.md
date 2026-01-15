@@ -134,7 +134,15 @@
     "🧩 additionalLanguages": ["Python", "PHP"]
   }
 }
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif" width="120" alt="gif" /> </p> </details> ```
+```
+  <p align="center">
+    <img
+      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif"
+      width="120"
+      alt="gif"
+    />
+  </p>
+</details>
 
 
 
