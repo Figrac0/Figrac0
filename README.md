@@ -174,7 +174,14 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 **Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments. 📍
 -->
 
-> 💡 **Note:**  
+<img
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZpdHJ4anl2dmEyZjBxOGJpcXlmZTNqZzhkZGRzZnRrNWlpamlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jDDmTKbdmVl3W/giphy.gif"
+  width="20"
+  height="20"
+  alt="note"
+/>
+
+> <strong> Note:</strong>
 > Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
 > This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
 
