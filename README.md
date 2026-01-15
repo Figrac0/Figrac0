@@ -194,8 +194,8 @@ This allows you to quickly explore the **interface** and **functionality** witho
 <h3>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5ZnZkZTZrdmZrNTlydjBscnRsM2ZqbWN4NjllbDF5eDJnazYwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S6Z6vk4Ex19kb5OjO8/giphy.gif"
-    width="28"
-    height="28"
+    width="35"
+    height="35"
     alt="highlight"
   />
   Portfolio Highlights
