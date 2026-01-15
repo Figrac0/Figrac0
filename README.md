@@ -87,7 +87,8 @@
 />
 
 <details>
-  <summary>CLICK TO OPEN · <code>profile.config.json</code></summary
+  <summary>CLICK TO OPEN · <code>profile.config.json</code></summary>
+  
 ```json
 {
   "_meta": {
