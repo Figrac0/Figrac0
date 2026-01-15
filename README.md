@@ -292,9 +292,10 @@ This allows you to quickly explore the **interface** and **functionality** witho
 
 <p align="center">
   <b>
-    🚀 I am currently expanding my expertise in React Native and backend development with Node.js,  
-    aiming to become a full-stack developer in the near future.
-  </b>
+  🚀 I am currently deepening my expertise in <strong>React Native</strong> for cross-platform development and
+  <strong>Node.js</strong> for backend and API engineering, leveraging the <strong>Node</strong> ecosystem to move
+  confidently toward a <strong>full-stack developer</strong> role.
+</b>
 </p>
 
 I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects.
