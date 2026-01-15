@@ -72,6 +72,52 @@
 </div>
 -->
 
+```json
+{
+  "aboutMe": {
+    "role": "Frontend Developer",
+    "description": "Experienced developer specializing in front-end development and adaptive interfaces. Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
+  },
+  "skills": {
+    "frontend": {
+      "languages": ["JavaScript", "TypeScript"],
+      "frameworks": ["React", "Next.js"]
+    },
+    "uiUx": {
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "SASS/SCSS",
+        "Bootstrap",
+        "TailwindCSS"
+      ],
+      "animations": ["Framer Motion", "React Animations"],
+      "designTools": ["Figma"]
+    },
+    "backendIntegration": {
+      "technologies": ["Node.js", "PostgreSQL"],
+      "focus": "API integration and responsive web applications"
+    },
+    "optimization": {
+      "areas": ["Performance Optimization", "Multithreading"],
+      "languages": ["C++", "Java"]
+    },
+    "testing": {
+      "tools": ["Jest", "React Testing Library"]
+    },
+    "workflow": {
+      "tools": ["Git", "GitHub", "GitLab", "VS Code", "npm", "yarn"],
+      "practices": ["CI/CD", "Team Collaboration"]
+    },
+    "softSkills": [
+      "Problem Solving",
+      "Adaptability",
+      "Team Collaboration"
+    ]
+  }
+}
+
+
 
 ### 🚀 About Me
 
