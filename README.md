@@ -8,21 +8,19 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="36" height="36" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="36" height="36">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/89276871214" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="36" height="36" />
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="36" height="36">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/id665985928" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077FF/vk-circled.png" width="36" height="36" />
+    <img src="https://img.icons8.com/ios-filled/50/0077FF/vk-circled.png" width="36" height="36">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/fajllovt42" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/26A5E4/telegram-app.png" width="36" height="36" />
+    <img src="https://img.icons8.com/ios-filled/50/26A5E4/telegram-app.png" width="36" height="36">
   </a>
 </p>
+
 
 
 
