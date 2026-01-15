@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Sergey,
 
 <img
-  src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXU5aDBzcTdwc3Rzcm1iOGw5YnU2NWN5cTY3NDRndDZ5cnlyaDB5OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.webp"
+  src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHg1dW5mcTZha3ZyaTFuMWMwamx3d3ptYXIzaW9pdTRvcTZvenp6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5ciuhhe0rQva8/200.webp"
   alt="Banner"
   width="1400"
   height="70"
