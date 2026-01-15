@@ -8,7 +8,7 @@
 
 
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
+  <a href="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDM5bGY4ZTg3NWt1b25yZ3V1YnpoMjVmZDdzZjc4eHQyYmdsaTVociZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oJqeXsRlXb6F2/200w.webp" target="_blank">
     <img
       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF4YzZyc2k5aXJ3OHMwemQxcTV6Y3Rpb3hkaDRxMXB2c3RienpqdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.webp"
       width="46"
