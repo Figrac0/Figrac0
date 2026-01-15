@@ -221,10 +221,10 @@ This allows you to quickly explore the **interface** and **functionality** witho
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxzc3lxdXMyNmliMGc5aWthcXZ0dzY5M3JjOGVqYXg3NHE5OGhpciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.webp" width="22" />
 
 + **API-Based Solutions:** Integrated and visualized data from **public APIs** (Marvel, Firebase, custom REST endpoints) to build **interactive and educational projects**.
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxzc3lxdXMyNmliMGc5aWthcXZ0dzY5M3JjOGVqYXg3NHE5OGhpciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kDiso9a7qAAo0/200w.webp" width="22" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="22" />
 
 + **Performance-Optimized React Projects:** Explored **React rendering mechanics**, applying **memoization hooks** and **Virtual DOM optimization** for smoother UX.
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDI3bzdjem9qcGtyY3h2ZWJwc2lqbzNsaHN2dHk1ZHp6Mm1vajBtMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/37rqA37gpWARlKFoeR/giphy.webp" width="22" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXA0ZjZxcXZvOHZiYmU3YzFrczltZWczNHc5YTc0eWdmNXZoaXYyeSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/yQDDqb66GaaGs/200.webp" width="22" />
 
 
 <p align="center">
