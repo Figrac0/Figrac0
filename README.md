@@ -152,7 +152,7 @@
   <img  
     src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
     width="1400"
-    height="45"
+    height="55"
     alt="Animated banner"
   />
 </p>
@@ -161,8 +161,6 @@
 ### 🚀 About Me
 
 I am an **experienced developer** specializing in **front-end development** and the creation of **adaptive interfaces**. I actively use **modern technologies** to build **dynamic and high-performance web applications**. My approach focuses on **attention to detail** and **continuous skill** improvement, enabling me to solve **complex problems** and deliver **intuitive, effective solutions**.
-
-
 
 ### 💻 Skills & Expertise
 **Frontend Development:** Proficient in _JavaScript, TypeScript, Next.js and React_. 📍
@@ -182,8 +180,6 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 
 **Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments. 📍
 -->
-
----
 
 <blockquote>
   <p>
