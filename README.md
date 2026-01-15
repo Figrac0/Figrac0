@@ -139,7 +139,7 @@
 
 <p align="center">
   <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTFiNGVvOGJpbTN3eWxqaDloN2Z1YTN4ZXF6c2lzbjZrMGtyZDF4ZSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/weQG1zCbffpew/giphy.webp"
     width="120"
     alt="gif"
   />
@@ -150,7 +150,7 @@
 
 <p align="center">
   <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTQ5cWxhd2R2ZTdqdXhlcnlvejRjNHBoOGRuZzJkM2dhc3AwaHA1cCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gDskvfTWoYEnK/200.webp"
     width="1400"
     height="45"
     alt="Animated banner"
