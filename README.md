@@ -86,13 +86,9 @@
       alt="open"
     />
 <details>
-  
   <summary>
-    
-    <strong> CLICK TO OPEN</strong> · <code>profile.config.json</code>
-    
+    <strong> CLICK TO OPEN </strong> · <code>profile.config.json</code>
   </summary>
-
 ```json
 {
   "_meta": {
