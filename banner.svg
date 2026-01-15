@@ -1,20 +1,52 @@
-<svg width="1400" height="70" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg">
-  <image
-    href="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkejRwZ2JmeDRkYWx0d3I4eWl2bmU2M2RnbGpyd2JlNnBiOThkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPeK7hRcDBwVFJu/giphy.webp"
+<svg width="1400" height="80" viewBox="0 0 1400 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate
+          attributeName="stop-color"
+          values="#0f2027;#203a43;#2c5364;#0f2027"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+      <stop offset="50%" stop-color="#203a43">
+        <animate
+          attributeName="stop-color"
+          values="#203a43;#2c5364;#0f2027;#203a43"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate
+          attributeName="stop-color"
+          values="#2c5364;#0f2027;#203a43;#2c5364"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect
     width="1400"
-    height="70"
-    preserveAspectRatio="xMidYMid slice"
+    height="80"
+    rx="14"
+    fill="url(#animatedGradient)"
   />
+
   <text
     x="50%"
     y="50%"
     dominant-baseline="middle"
     text-anchor="middle"
-    fill="white"
-    font-size="24"
+    fill="#ffffff"
+    font-size="28"
     font-weight="600"
-    style="text-shadow: 0 2px 8px rgba(0,0,0,0.6);"
+    font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+    letter-spacing="0.4"
   >
-    👋 Hi, my name is Sergey
+    👋 Hi, I’m Sergey. Welcome to my GitHub
   </text>
 </svg>
+
