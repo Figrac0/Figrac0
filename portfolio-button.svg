@@ -1,39 +1,103 @@
-<svg width="210" height="64" viewBox="0 0 360 64" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-label="Visit my portfolio button">
+  <defs>
+    <!-- main gradient (same palette) -->
+    <linearGradient id="btnGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9f1c">
+        <animate attributeName="stop-color" values="#ff9f1c;#ffb347;#ff9f1c" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff7a00">
+        <animate attributeName="stop-color" values="#ff7a00;#ff9f1c;#ff7a00" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- shimmer streak -->
+    <linearGradient id="shineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- subtle inner highlight -->
+    <linearGradient id="innerHighlight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.08"/>
+    </linearGradient>
+
+    <!-- soft shadow -->
+    <filter id="shadow" x="-30%" y="-60%" width="160%" height="220%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+
+    <!-- glow -->
+    <filter id="glow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.30 0" result="g"/>
+      <feMerge>
+        <feMergeNode in="g"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- rounded clip -->
+    <clipPath id="clip">
+      <rect x="6" y="6" width="348" height="52" rx="18"/>
+    </clipPath>
+  </defs>
+
   <a href="https://figrac0.github.io/" target="_blank" rel="noopener noreferrer">
-    <defs>
-      <linearGradient id="btnGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff9f1c">
-          <animate attributeName="stop-color" values="#ff9f1c;#ffb347;#ff9f1c" dur="6s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#ff7a00">
-          <animate attributeName="stop-color" values="#ff7a00;#ff9f1c;#ff7a00" dur="6s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
+    <!-- outer glow ring -->
+    <rect x="6" y="6" width="348" height="52" rx="18" fill="url(#btnGradient)" opacity="0.22" filter="url(#glow)"/>
 
-    <rect x="4" y="4" rx="16" ry="16" width="352" height="56" fill="url(#btnGradient)"/>
+    <!-- main body -->
+    <rect x="6" y="6" width="348" height="52" rx="18" fill="url(#btnGradient)" filter="url(#shadow)"/>
 
-    <text
-      x="180"
-      y="32"
-      text-anchor="middle"
-      dominant-baseline="middle"
-      fill="#1a1a1a"
-      font-size="20"
-      font-weight="700"
-      font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-      letter-spacing="1"
-    >
-      VISIT MY PORTFOLIO
-      <animateTransform
-        attributeName="transform"
-        type="scale"
-        values="1; 1.06; 1"
-        dur="1.25s"
-        repeatCount="indefinite"
-        additive="sum"
-      />
-    </text>
+    <!-- inner highlight layer -->
+    <rect x="8" y="8" width="344" height="48" rx="16" fill="url(#innerHighlight)" opacity="0.9"/>
+
+    <!-- animated shimmer -->
+    <g clip-path="url(#clip)">
+      <rect x="-160" y="6" width="140" height="52" rx="18" fill="url(#shineGradient)" opacity="0.9">
+        <animate attributeName="x" values="-160; 520" dur="2.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- subtle top edge line -->
+    <path d="M24 14 H336" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- content group (micro-bounce) -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 0 -1.2; 0 0"
+                        dur="1.6s" repeatCount="indefinite"/>
+
+      <!-- small icon (chevron) -->
+      <g transform="translate(64 32)">
+        <path d="M-6 -6 L2 0 L-6 6" fill="none" stroke="#1a1a1a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+        <path d="M2 -6 L10 0 L2 6" fill="none" stroke="#1a1a1a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+      </g>
+
+      <!-- text -->
+      <text x="196" y="32"
+            text-anchor="middle"
+            dominant-baseline="middle"
+            fill="#1a1a1a"
+            font-size="18"
+            font-weight="800"
+            font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            letter-spacing="1.2">
+        VISIT MY PORTFOLIO
+      </text>
+    </g>
+
+    <!-- crisp stroke -->
+    <rect x="6" y="6" width="348" height="52" rx="18" fill="none" stroke="#1a1a1a" stroke-opacity="0.18" stroke-width="1"/>
   </a>
 </svg>
+
 
