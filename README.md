@@ -148,12 +148,15 @@
 
 </details> 
 
-<img
-  src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWozMDlqZm53bjQ5dGo0aGI1NjBodXhqM3JucjV4NXRsZWJtdWtmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.webp"
-  alt="Banner"
-  width="1400"
-  height="45"
-/>
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWozMDlqZm53bjQ5dGo0aGI1NjBodXhqM3JucjV4NXRsZWJtdWtmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.webp"
+    width="1400"
+    height="45"
+    alt="Animated banner"
+  />
+</p>
+
 
 
 
