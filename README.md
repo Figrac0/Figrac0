@@ -123,14 +123,14 @@
     "⚙️ backendIntegration": {
       "technologies": ["Node.js", "PostgreSQL", "SQLite"]
     },
-    "optimization": {
+    "⚡ optimization": {
       "areas": ["Performance Optimization", "Multithreading"],
       "languages": ["C++", "Java"]
     },
-    "containerization": {
+    "🐳 containerization": {
       "tools": ["Docker"]
     },
-    "additionalLanguages": ["Python", "PHP"]
+    "🧩 additionalLanguages": ["Python", "PHP"]
   }
 }
 
