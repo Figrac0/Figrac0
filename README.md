@@ -76,8 +76,8 @@
   <summary>
     <img
       src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTVzYWN0dHBvenA5YXpqNmpjc2w4M2V2Y253cWU0cHNmaHBnaXdubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Y1qEhVzH1ZcjlMsau/giphy.webp"
-      width="20"
-      height="20"
+      width="40"
+      height="40"
       alt="open"
     />
     <strong> CLICK TO OPEN</strong> · profile.config.json
