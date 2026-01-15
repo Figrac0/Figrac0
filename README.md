@@ -1,29 +1,42 @@
 # 👋 Hi, my name is Sergey,
 <br/>
 
-  <img 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdldGI2YjdhejVpbnFiM3pidDI5emowcmVpcnJwNnI0MW81M2h5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.gif"
-  alt="Banner"
-   width: 100%;
-    height: 90px;
-/>
-
+<div
+  style="
+    width: 100%;
+    height: 70px;
+    overflow: hidden;
+    margin: 16px 0;
+  "
+>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdldGI2YjdhejVpbnFiM3pidDI5emowcmVpcnJwNnI0MW81M2h5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.gif"
+    alt="Banner"
+    style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    "
+  />
+</div>
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
     <img 
       src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
-      alt="Portfolio" 
+      alt="Portfolio"
       style="
-        border-radius: 12px; 
-        padding: 8px 30px; 
+        border-radius: 12px;
+        padding: 8px 30px;
         box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.25);
         transform: scale(1.1);
         font-size: 18px;
-      " 
+      "
     />
   </a>
 </p>
+
 
 ### 📬 Contact Me
 
