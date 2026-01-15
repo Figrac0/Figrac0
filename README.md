@@ -22,8 +22,8 @@
   <a href="https://wa.me/89276871214" target="_blank">
     <img
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jU9PVpqUvR0aNc3nvX/giphy.webp"
-      width="50"
-      height="50"
+      width="52"
+      height="52"
       alt="WhatsApp"
     />
   </a>
