@@ -1,5 +1,5 @@
 <img
-  src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHg1dW5mcTZha3ZyaTFuMWMwamx3d3ptYXIzaW9pdTRvcTZvenp6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5ciuhhe0rQva8/200.webp"
+  src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmZ2czJveWIzM21ocDZuM3ltYTUycXk1MXZzc2VxeXM1OHJsZmZucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BlcWQ9L2VfOFO/giphy.webp"
   alt="Banner"
   width="1400"
   height="70"
