@@ -71,10 +71,9 @@
   </a>
 </div>
 -->
-### 🧠 profile.config.json
 
 <details>
-<summary><strong>📄 View structured profile configuration</strong></summary>
+<summary>▶️ <strong>CLICK TO OPEN</strong> ·🧠 profile.config.json</summary>
 
 ```json
 {
