@@ -88,6 +88,17 @@
       alt="open"
     />
     <strong> CLICK TO OPEN</strong> · <code>profile.config.json</code>
+
+    <br />
+
+    <p align="center">
+      <img  
+        src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
+        width="1400"
+        height="55"
+        alt="Animated banner"
+      />
+    </p>
   </summary>
 
 ```json
@@ -99,9 +110,7 @@
   },
   "aboutMe": {
     "role": "Frontend Developer",
-    "description": "Experienced developer specializing in front-end development and adaptive interfaces.
-     Focused on building dynamic, high-performance web applications
-     with attention to detail and continuous skill improvement."
+    "description": "Experienced developer specializing in front-end development and adaptive interfaces. Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
   },
   "skills": {
     "💻 frontend": {
@@ -134,9 +143,6 @@
   }
 }
 
-
-```
-
 <p align="center">
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTFiNGVvOGJpbTN3eWxqaDloN2Z1YTN4ZXF6c2lzbjZrMGtyZDF4ZSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/weQG1zCbffpew/giphy.webp"
@@ -145,17 +151,8 @@
   />
 </p>
 
+</details>
 
-</details> 
-
-<p align="center">
-  <img  
-    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
-    width="1400"
-    height="55"
-    alt="Animated banner"
-  />
-</p>
 
 <!--
 ### 🚀 About Me
