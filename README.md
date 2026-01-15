@@ -118,6 +118,15 @@
 
 ```
 
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmk0OGFicjN4NXhsajFheWF2bHIwZDk1dTlpemxkcXczNTA5eGp6OSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/weQG1zCbffpew/giphy.webp"
+    width="120"
+    alt="gif"
+  />
+</p>
+
+
 </details> 
 
 <!--
