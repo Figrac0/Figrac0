@@ -191,8 +191,6 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 
 
 ## 🌐 Socials 📬:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.sabilin) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fajllovt42) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serjjinius@gmail.com) 
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](mailto:serjjinius_sablin@mail.ru) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
