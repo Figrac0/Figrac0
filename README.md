@@ -139,7 +139,7 @@
 
 <p align="center">
   <img
-    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif"
     width="120"
     alt="gif"
   />
