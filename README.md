@@ -231,7 +231,16 @@ This allows you to quickly explore the **interface** and **functionality** witho
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
 </p><br>
 
-# 💻 Tech Stack:
+<h1>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0dTRwM3dqb2NnenhqODNqb2hoYWhtaHZzcGxmN3h1dmJoOW0wMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UvPvsX9oMlMWs/giphy.webp"
+    width="34"
+    height="34"
+    alt="tech"
+  />
+  Tech Stack:
+</h1>
+
 
 ### 🔹 Core Technologies  
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
