@@ -31,8 +31,8 @@
   <a href="https://vk.com/id665985928" target="_blank">
     <img
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4fGNh8cEOdGWa2hA4z/200.webp"
-      width="59"
-      height="59"
+      width="63"
+      height="63"
       alt="VK"
     />
   </a>
@@ -41,8 +41,8 @@
   <a href="https://t.me/fajllovt42" target="_blank">
     <img
       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg2eWdvdmpkbHRscjh6dXFybzEycHhzYzZiNTVtMTFtMm5id2RtOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.webp"
-      width="43"
-      height="43"
+      width="40"
+      height="40"
       alt="Telegram"
     />
   </a>
