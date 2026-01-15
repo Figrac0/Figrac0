@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Figrac0/Figrac0/blob/main/banner.svg" width="100%" />
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
