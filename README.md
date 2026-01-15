@@ -15,7 +15,8 @@
       alt="Gmail"
     />
   </a>
-
+</p>
+<p align="center">
   <a href="https://wa.me/89276871214" target="_blank">
     <img
       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OrNkIcgmjBQeFM1vEs/giphy.webp"
@@ -24,7 +25,7 @@
       alt="WhatsApp"
     />
   </a>
-
+</p>
   <a href="https://vk.com/id665985928" target="_blank">
     <img
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1o6rpNIRjOgR9eR1Wj/giphy.webp"
