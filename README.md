@@ -79,8 +79,17 @@
 </div>
 -->
 
-<details>
+<details id="profile-config">
   <summary>
+    <a href="#profile-config">
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWozMDlqZm53bjQ5dGo0aGI1NjBodXhqM3JucjV4NXRsZWJtdWtmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.webp"
+        width="1400"
+        height="45"
+        alt="Open profile.config.json"
+      />
+    </a>
+    <br />
     <img
       src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTVzYWN0dHBvenA5YXpqNmpjc2w4M2V2Y253cWU0cHNmaHBnaXdubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Y1qEhVzH1ZcjlMsau/giphy.webp"
       width="40"
@@ -99,21 +108,13 @@
   },
   "aboutMe": {
     "role": "Frontend Developer",
-    "description": "Experienced developer specializing in front-end development and adaptive interfaces.
-     Focused on building dynamic, high-performance web applications
-     with attention to detail and continuous skill improvement."
+    "description": "Experienced developer specializing in front-end development and adaptive interfaces. Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
   },
   "skills": {
     "💻 frontend": {
       "languages": ["JavaScript", "TypeScript"],
       "frameworks": ["React", "Next.js"],
-      "reactEcosystem": [
-        "Redux",
-        "React Router",
-        "React Hook Form",
-        "React Query",
-        "TanStack Query"
-      ]
+      "reactEcosystem": ["Redux", "React Router", "React Hook Form", "React Query", "TanStack Query"]
     },
     "🎨 uiUx": {
       "technologies": ["HTML5", "CSS3", "SASS/SCSS", "Bootstrap", "TailwindCSS"],
@@ -133,29 +134,8 @@
     "🧩 additionalLanguages": ["Python", "PHP"]
   }
 }
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif" width="120" alt="gif" /> </p> </details> ```
 
-
-```
-
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4NDltaDBxczN3OGFwbXNieWZxYWtsOTBmcGo0bHplYTk0aWF6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZ5ag9Kw9VFlJJB0f8/giphy.gif"
-    width="120"
-    alt="gif"
-  />
-</p>
-
-
-</details> 
-
-<p align="center">
-  <img
-    src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWozMDlqZm53bjQ5dGo0aGI1NjBodXhqM3JucjV4NXRsZWJtdWtmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.webp"
-    width="1400"
-    height="45"
-    alt="Animated banner"
-  />
-</p>
 
 
 
