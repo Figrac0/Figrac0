@@ -77,7 +77,7 @@
   "aboutMe": {
     "role": "Frontend Developer",
     "description": "Experienced developer specializing in front-end development and adaptive interfaces.
-     Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
+    Focused on building dynamic, high-performance web applications with attention to detail and continuous skill improvement."
   },
   "skills": {
     "frontend": {
