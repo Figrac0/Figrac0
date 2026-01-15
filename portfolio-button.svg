@@ -1,0 +1,37 @@
+<svg width="360" height="64" viewBox="0 0 360 64" xmlns="http://www.w3.org/2000/svg">
+  <a href="https://figrac0.github.io/" target="_blank">
+    <defs>
+      <linearGradient id="btnGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff9f1c">
+          <animate attributeName="stop-color" values="#ff9f1c;#ffb347;#ff9f1c" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#ff7a00">
+          <animate attributeName="stop-color" values="#ff7a00;#ff9f1c;#ff7a00" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <rect
+      x="4"
+      y="4"
+      rx="16"
+      ry="16"
+      width="352"
+      height="56"
+      fill="url(#btnGradient)"
+    />
+
+    <text
+      x="180"
+      y="38"
+      text-anchor="middle"
+      fill="#1a1a1a"
+      font-size="20"
+      font-weight="700"
+      font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+      letter-spacing="1"
+    >
+      VISIT MY PORTFOLIO
+    </text>
+  </a>
+</svg>
