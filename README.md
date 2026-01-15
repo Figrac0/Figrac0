@@ -149,8 +149,8 @@
 </details> 
 
 <p align="center">
-  <img
-    src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm85ZGo4ZjV4OGMyb2Z3aHhnc2Z6djFmNmI0cXJnaGNwcmVnbHQzbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/11UhXwm8Ipd9C/giphy.webp"
+  <img  
+    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
     width="1400"
     height="45"
     alt="Animated banner"
