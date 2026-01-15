@@ -1,27 +1,5 @@
-<div style="position: relative; width: 100%; max-width: 1400px;">
-  <img
-    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkejRwZ2JmeDRkYWx0d3I4eWl2bmU2M2RnbGpyd2JlNnBiOThkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPeK7hRcDBwVFJu/giphy.webp"
-    alt="Banner"
-    width="1400"
-    height="70"
-    style="display: block; width: 100%; object-fit: cover;"
-  />
-  <div
-    style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 24px;
-      font-weight: 600;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.6);
-      white-space: nowrap;
-    "
-  >
-    👋 Hi, my name is Sergey
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
+
 
 ---
 
