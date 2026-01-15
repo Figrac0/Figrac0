@@ -203,20 +203,29 @@ This allows you to quickly explore the **interface** and **functionality** witho
 
 
 + **Avatar Type Recognition Research:** Built a full experimental pipeline for **three-class avatar classification** (real, drawing, generated) with analysis of **class imbalance effects**, **CNN robustness metrics**, and **Grad-CAM attention**. Presented at the **International Congress on Computer and Information Sciences 2025 (MSU)**.
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="22" />
 
-+ **Custom JavaScript Library:** Engineered a reusable **SPA-component library** (modals, datepickers, accordions, tooltips) with **router** and **state management** modules. 🧩
++ **Custom JavaScript Library:** Engineered a reusable **SPA-component library** (modals, datepickers, accordions, tooltips) with **router** and **state management** modules.
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="22" />
 
-+ **Automated Booking Systems:** Implemented **real-time cinema booking platforms** with **JWT authentication**, **dynamic filtering**, and **secure data flow**. 🎬
++ **Automated Booking Systems:** Implemented **real-time cinema booking platforms** with **JWT authentication**, **dynamic filtering**, and **secure data flow**.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="22" />
 
-+ **Interactive Interfaces:** Designed and developed **modern, responsive UIs** with a focus on **usability and performance**, using **React**, **TypeScript**, and **SCSS**. 🧠
++ **Interactive Interfaces:** Designed and developed **modern, responsive UIs** with a focus on **usability and performance**, using **React**, **TypeScript**, and **SCSS**.
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="22" />
 
-+ **Cross-Platform Applications:** Built **scalable web apps** optimized for all devices with **cross-browser** and **adaptive** layouts. ⚙️
++ **Cross-Platform Applications:** Built **scalable web apps** optimized for all devices with **cross-browser** and **adaptive** layouts.
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2ZuaXdpaGV6eWFodjcwbzBkemphZGN2b2Fjdmhhb3lrejFxOGd4YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3rdMwtD27kGCRpsvhI/giphy.webp" width="22" />
 
-+ **Data-Driven Dashboards:** Created **admin panels** and **analytics systems** with advanced **state management**, **calendar integration**, and **API connectivity**. 📊
++ **Data-Driven Dashboards:** Created **admin panels** and **analytics systems** with advanced **state management**, **calendar integration**, and **API connectivity**.
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxzc3lxdXMyNmliMGc5aWthcXZ0dzY5M3JjOGVqYXg3NHE5OGhpciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.webp" width="22" />
 
-+ **API-Based Solutions:** Integrated and visualized data from **public APIs** (Marvel, Firebase, custom REST endpoints) to build **interactive and educational projects**. 🦸
++ **API-Based Solutions:** Integrated and visualized data from **public APIs** (Marvel, Firebase, custom REST endpoints) to build **interactive and educational projects**.
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxzc3lxdXMyNmliMGc5aWthcXZ0dzY5M3JjOGVqYXg3NHE5OGhpciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kDiso9a7qAAo0/200w.webp" width="22" />
 
-+ **Performance-Optimized React Projects:** Explored **React rendering mechanics**, applying **memoization hooks** and **Virtual DOM optimization** for smoother UX. ⚡
++ **Performance-Optimized React Projects:** Explored **React rendering mechanics**, applying **memoization hooks** and **Virtual DOM optimization** for smoother UX.
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDI3bzdjem9qcGtyY3h2ZWJwc2lqbzNsaHN2dHk1ZHp6Mm1vajBtMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/37rqA37gpWARlKFoeR/giphy.webp" width="22" />
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
