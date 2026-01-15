@@ -16,6 +16,7 @@
       alt="Gmail"
     />
   </a>
+  <br/>
 
   
   <a href="https://wa.me/89276871214" target="_blank">
@@ -26,7 +27,7 @@
       alt="WhatsApp"
     />
   </a>
-
+<br/>
 
   <a href="https://vk.com/id665985928" target="_blank">
     <img
@@ -36,7 +37,7 @@
       alt="VK"
     />
   </a>
-
+<br/>
 
   <a href="https://t.me/fajllovt42" target="_blank">
     <img
