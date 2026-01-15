@@ -1,12 +1,10 @@
-# 👋 Hi, my name is Sergey,
-
 <img
   src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHg1dW5mcTZha3ZyaTFuMWMwamx3d3ptYXIzaW9pdTRvcTZvenp6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5ciuhhe0rQva8/200.webp"
   alt="Banner"
   width="1400"
   height="70"
 />
-
+# 👋 Hi, my name is Sergey,
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
