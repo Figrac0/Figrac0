@@ -150,7 +150,7 @@
 
 <p align="center">
   <img
-    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTQ5cWxhd2R2ZTdqdXhlcnlvejRjNHBoOGRuZzJkM2dhc3AwaHA1cCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gDskvfTWoYEnK/200.webp"
+    src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm85ZGo4ZjV4OGMyb2Z3aHhnc2Z6djFmNmI0cXJnaGNwcmVnbHQzbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/11UhXwm8Ipd9C/giphy.webp"
     width="1400"
     height="45"
     alt="Animated banner"
