@@ -41,8 +41,8 @@
   <a href="https://t.me/fajllovt42" target="_blank">
     <img
       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg2eWdvdmpkbHRscjh6dXFybzEycHhzYzZiNTVtMTFtMm5id2RtOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.webp"
-      width="40"
-      height="40"
+      width="35"
+      height="35"
       alt="Telegram"
     />
   </a>
