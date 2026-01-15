@@ -71,54 +71,44 @@
   </a>
 </div>
 -->
+### 🧠 profile.config.json
+
+<details>
+<summary><strong>📄 View structured profile configuration</strong></summary>
 
 ```json
 {
+  "_meta": {
+    "version": "1.0.0",
+    "format": "profile-config",
+    "lastUpdated": "2026-01"
+  },
   "aboutMe": {
     "role": "Frontend Developer",
-    "description": "Experienced developer specializing in front-end development
-    and adaptive interfaces. Focused on building dynamic, high-performance
-    web applications with attention to detail and continuous skill improvement."
+    "description": "Experienced developer specializing in front-end development and adaptive interfaces.
+     Focused on building dynamic, high-performance web applications with attention to detail and
+     continuous skill improvement."
   },
   "skills": {
-    "frontend": {
+    "💻 frontend": {
       "languages": ["JavaScript", "TypeScript"],
       "frameworks": ["React", "Next.js"]
     },
-    "uiUx": {
-      "technologies": [
-        "HTML5",
-        "CSS3",
-        "SASS/SCSS",
-        "Bootstrap",
-        "TailwindCSS"
-      ],
+    "🎨 uiUx": {
+      "technologies": ["HTML5", "CSS3", "SASS/SCSS", "Bootstrap", "TailwindCSS"],
       "animations": ["Framer Motion", "React Animations"],
       "designTools": ["Figma"]
     },
-    "backendIntegration": {
-      "technologies": ["Node.js", "PostgreSQL"],
-      "focus": "API integration and responsive web applications"
+    "⚙️ backendIntegration": {
+      "technologies": ["Node.js", "PostgreSQL"]
     },
     "optimization": {
       "areas": ["Performance Optimization", "Multithreading"],
       "languages": ["C++", "Java"]
-    },
-    "testing": {
-      "tools": ["Jest", "React Testing Library"]
-    },
-    "workflow": {
-      "tools": ["Git", "GitHub", "GitLab", "VS Code", "npm", "yarn"],
-      "practices": ["CI/CD", "Team Collaboration"]
-    },
-    "softSkills": [
-      "Problem Solving",
-      "Adaptability",
-      "Team Collaboration"
-    ]
+    }
   }
 }
-```
+
 
 
 ### 🚀 About Me
