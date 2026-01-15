@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
+  <a href="https://figrac0.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
+  </a>
 </p>
 
 
