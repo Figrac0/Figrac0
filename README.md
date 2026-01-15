@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
 
 
----
-
 
 <img
   src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkejRwZ2JmeDRkYWx0d3I4eWl2bmU2M2RnbGpyd2JlNnBiOThkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPeK7hRcDBwVFJu/giphy.webp"
