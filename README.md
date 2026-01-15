@@ -1,17 +1,25 @@
 # 👋 Hi, my name is Sergey,
 <br/>
 
-<img 
-  src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXU5aDBzcTdwc3Rzcm1iOGw5YnU2NWN5cTY3NDRndDZ5cnlyaDB5OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.webp"
-  alt="Banner"
+<div
   style="
     width: 100%;
-    max-height: 180px;
-    object-fit: cover;
-    display: block;
+    height: 90px;
+    overflow: hidden;
     margin: 16px 0;
   "
-/>
+>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdldGI2YjdhejVpbnFiM3pidDI5emowcmVpcnJwNnI0MW81M2h5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcgHICdbngo31ug/giphy.gif"
+    alt="Banner"
+    style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    "
+  />
+</div>
 
 <p align="center">
   <a href="https://figrac0.github.io/" target="_blank">
