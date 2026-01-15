@@ -279,7 +279,7 @@ This allows you to quickly explore the **interface** and **functionality** witho
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]()  
 
 
-<h1>
+<h2>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM3OXBpMm05bmt1OXc2a3l3YTkzMmxpdWQxZjdydnVueDNnMXFsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SU1Ky519kXirC/giphy.webp"
     width="40"
@@ -287,7 +287,7 @@ This allows you to quickly explore the **interface** and **functionality** witho
     alt="growth"
   />
   Continuous Growth
-</h1>
+</h2>
 
 
 <p align="center">
@@ -299,13 +299,22 @@ This allows you to quickly explore the **interface** and **functionality** witho
 
 I’m committed to continuous **learning** and always **exploring** new technologies to **work** on innovative projects. 🧮
 
-<p align="center">
+
 ![React Native](https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
-</p>
 
-# 📊 GitHub Stats:
+
+<h1>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXUyNWZ0ZHByZnN2NWF4Y2dqbGoyenhxdzl0cDJrbmNmcXhpOWFwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ww9Z3l8wl4szKyRIro/giphy.webp"
+    width="40"
+    height="40"
+    alt="stats"
+  />
+  GitHub Stats:
+</h1>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Figrac0&theme=aura" /></br>
