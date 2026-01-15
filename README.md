@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/blob/main/portfolio-button.svg" />
+  <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
 </p>
+
 
 
 
