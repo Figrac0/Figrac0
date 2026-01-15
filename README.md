@@ -178,8 +178,8 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
   <p>
     <img
       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZpdHJ4anl2dmEyZjBxOGJpcXlmZTNqZzhkZGRzZnRrNWlpamlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jDDmTKbdmVl3W/giphy.gif"
-      width="20"
-      height="20"
+      width="40"
+      height="40"
       alt="note"
     />
     <strong> Note:</strong>
