@@ -1,0 +1,20 @@
+<svg width="1400" height="70" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg">
+  <image
+    href="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkejRwZ2JmeDRkYWx0d3I4eWl2bmU2M2RnbGpyd2JlNnBiOThkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPeK7hRcDBwVFJu/giphy.webp"
+    width="1400"
+    height="70"
+    preserveAspectRatio="xMidYMid slice"
+  />
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="white"
+    font-size="24"
+    font-weight="600"
+    style="text-shadow: 0 2px 8px rgba(0,0,0,0.6);"
+  >
+    👋 Hi, my name is Sergey
+  </text>
+</svg>
