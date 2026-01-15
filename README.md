@@ -1,20 +1,9 @@
 <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/banner.svg" width="100%" />
 
 <p align="center">
-  <a href="https://figrac0.github.io/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFA500?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=FF8C00" 
-      alt="Portfolio"
-      style="
-        border-radius: 12px;
-        padding: 8px 30px;
-        box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.25);
-        transform: scale(1.1);
-        font-size: 18px;
-      "
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/assets/portfolio-button.svg" />
 </p>
+
 
 
 ### 📬 Contact Me
