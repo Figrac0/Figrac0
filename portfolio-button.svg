@@ -1,5 +1,5 @@
 <svg width="360" height="64" viewBox="0 0 360 64" xmlns="http://www.w3.org/2000/svg">
-  <a href="https://figrac0.github.io/" target="_blank">
+  <a href="https://figrac0.github.io/" target="_blank" rel="noopener noreferrer">
     <defs>
       <linearGradient id="btnGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#ff9f1c">
@@ -11,20 +11,13 @@
       </linearGradient>
     </defs>
 
-    <rect
-      x="4"
-      y="4"
-      rx="16"
-      ry="16"
-      width="352"
-      height="56"
-      fill="url(#btnGradient)"
-    />
+    <rect x="4" y="4" rx="16" ry="16" width="352" height="56" fill="url(#btnGradient)"/>
 
     <text
       x="180"
-      y="38"
+      y="32"
       text-anchor="middle"
+      dominant-baseline="middle"
       fill="#1a1a1a"
       font-size="20"
       font-weight="700"
@@ -32,6 +25,15 @@
       letter-spacing="1"
     >
       VISIT MY PORTFOLIO
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1; 1.06; 1"
+        dur="1.25s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
     </text>
   </a>
 </svg>
+
