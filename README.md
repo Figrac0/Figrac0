@@ -6,8 +6,89 @@
   </a>
 </p>
 
+---
+```js
+{
+  "contact": {
+    "email": {
+      "label": "Email",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com",
+      "icon": "https://img.icons8.com/?size=64&id=48165&format=png"
+    },
+    "whatsapp": {
+      "label": "WhatsApp",
+      "url": "https://wa.me/89276871214",
+      "icon": "https://img.icons8.com/?size=64&id=43677&format=png"
+    },
+    "vk": {
+      "label": "VK",
+      "url": "https://vk.com/id665985928",
+      "icon": "https://img.icons8.com/?size=64&id=48220&format=png"
+    },
+    "telegram": {
+      "label": "Telegram",
+      "url": "https://web.telegram.org/k/#@fajllovt42",
+      "icon": "https://img.icons8.com/?size=64&id=114954&format=png"
+    }
+  },
+  "about": {
+    "summary": "Experienced frontend developer focused on building adaptive, high-performance web applications using modern technologies. Pays strong attention to detail and continuously improves skills to solve complex problems and deliver intuitive solutions."
+  },
+  "skills": {
+    "frontend": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js"
+    ],
+    "ui_ux": {
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "SASS/SCSS",
+        "Bootstrap",
+        "TailwindCSS",
+        "React Animations"
+      ],
+      "design": [
+        "component-based styling",
+        "animation design (Framer Motion)",
+        "design-to-code workflows",
+        "Figma"
+      ]
+    },
+    "backend_integration": [
+      "Node.js",
+      "PostgreSQL",
+      "API integration"
+    ],
+    "optimization_and_multithreading": [
+      "C++",
+      "Java"
+    ],
+    "testing": [
+      "Jest",
+      "React Testing Library"
+    ],
+    "tools_and_workflow": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "VS Code",
+      "npm",
+      "yarn",
+      "CI/CD"
+    ],
+    "soft_skills": [
+      "problem solving",
+      "adaptability",
+      "team collaboration"
+    ]
+  }
+}
+```
 
-
+---
 
 ### 📬 Contact Me
 
