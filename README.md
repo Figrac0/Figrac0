@@ -186,9 +186,8 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
     />
     <strong> Note:</strong>
   </p>
-
-> Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
-> This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
+Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
+This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
 </blockquote>
 ### 🌟 Portfolio Highlights
 
