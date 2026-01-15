@@ -304,6 +304,13 @@ I’m committed to continuous **learning** and always **exploring** new technolo
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
 ![Fullstack](https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-Expertise-blue?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Future-Fullstack-orange?style=for-the-badge" alt="Fullstack" />
+</p>
+
+
 
 <h1>
   <img
