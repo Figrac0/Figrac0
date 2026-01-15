@@ -190,7 +190,17 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
 This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
 </blockquote>
-### 🌟 Portfolio Highlights
+
+<h3>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5ZnZkZTZrdmZrNTlydjBscnRsM2ZqbWN4NjllbDF5eDJnazYwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S6Z6vk4Ex19kb5OjO8/giphy.gif"
+    width="28"
+    height="28"
+    alt="highlight"
+  />
+  Portfolio Highlights
+</h3>
+
 
 + **Avatar Type Recognition Research:** Built a full experimental pipeline for **three-class avatar classification** (real, drawing, generated) with analysis of **class imbalance effects**, **CNN robustness metrics**, and **Grad-CAM attention**. Presented at the **International Congress on Computer and Information Sciences 2025 (MSU)**.
 
