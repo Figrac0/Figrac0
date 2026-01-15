@@ -174,6 +174,8 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
 **Soft Skills:** Strong problem-solving mindset, adaptability, and ability to work effectively in team environments. 📍
 -->
 
+---
+
 <blockquote>
   <p>
     <img
@@ -184,11 +186,10 @@ Experienced in **component-based styling**, **animation design** (Framer Motion)
     />
     <strong> Note:</strong>
   </p>
-</blockquote>
 
 > Many repositories in this portfolio include detailed **README** files with **screenshots**, **previews**, and **short demonstrations** of the projects.  
 > This allows you to quickly explore the **interface** and **functionality** without cloning or running the code.
-
+</blockquote>
 ### 🌟 Portfolio Highlights
 
 + **Avatar Type Recognition Research:** Built a full experimental pipeline for **three-class avatar classification** (real, drawing, generated) with analysis of **class imbalance effects**, **CNN robustness metrics**, and **Grad-CAM attention**. Presented at the **International Congress on Computer and Information Sciences 2025 (MSU)**.
