@@ -1,9 +1,11 @@
 <p align="center">
+   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">
   <img
     src="https://github.com/Figrac0/Figrac0/raw/main/banner.svg"
     width="1400"
     alt="Welcome Banner"
   />
+      </a>
 </p>
 
 
@@ -145,12 +147,14 @@
 </details> 
 
 <p align="center">
+   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">
   <img  
     src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
     width="1400"
     height="55"
     alt="Animated banner"
   />
+     </a>
 </p>
 
 <!--
