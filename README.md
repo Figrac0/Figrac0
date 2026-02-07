@@ -20,6 +20,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://career.habr.com/figraco" target="_blank">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" />
+  </a>
+</p>
+
+
 <div align="center">
   <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
