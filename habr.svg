@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="50%" stop-color="#0a1a2f"/>
-      <stop offset="100%" stop-color="#120b2a"/>
+      <stop offset="55%" stop-color="#0f1a27"/>
+      <stop offset="100%" stop-color="#0b1220"/>
     </linearGradient>
 
     <radialGradient id="glow" cx="35%" cy="30%" r="75%">
-      <stop offset="0%" stop-color="#7cf7d4" stop-opacity="0.22"/>
-      <stop offset="55%" stop-color="#5a7bff" stop-opacity="0.14"/>
+      <stop offset="0%" stop-color="#629FBC" stop-opacity="0.26"/>
+      <stop offset="55%" stop-color="#6274BC" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
 
@@ -39,121 +39,121 @@
     </filter>
 
     <linearGradient id="g0" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#7cf7d4"/>
-      <stop offset="50%" stop-color="#5a7bff"/>
-      <stop offset="100%" stop-color="#ff6bd6"/>
+      <stop offset="0%" stop-color="#629FBC"/>
+      <stop offset="50%" stop-color="#6274BC"/>
+      <stop offset="100%" stop-color="#f7f7f7"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g1" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ffd36b"/>
-      <stop offset="50%" stop-color="#7cf7d4"/>
-      <stop offset="100%" stop-color="#5a7bff"/>
+      <stop offset="0%" stop-color="#edeeef"/>
+      <stop offset="50%" stop-color="#629FBC"/>
+      <stop offset="100%" stop-color="#6274BC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-0.18s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-0.18s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g2" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ff6bd6"/>
-      <stop offset="50%" stop-color="#ffd36b"/>
-      <stop offset="100%" stop-color="#7cf7d4"/>
+      <stop offset="0%" stop-color="#6274BC"/>
+      <stop offset="50%" stop-color="#edeeef"/>
+      <stop offset="100%" stop-color="#629FBC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-0.36s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-0.36s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g3" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#5a7bff"/>
-      <stop offset="50%" stop-color="#ff6bd6"/>
-      <stop offset="100%" stop-color="#ffd36b"/>
+      <stop offset="0%" stop-color="#434B60"/>
+      <stop offset="50%" stop-color="#6274BC"/>
+      <stop offset="100%" stop-color="#edeeef"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-0.54s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-0.54s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g4" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#7cf7d4"/>
-      <stop offset="50%" stop-color="#ff6bd6"/>
-      <stop offset="100%" stop-color="#5a7bff"/>
+      <stop offset="0%" stop-color="#629FBC"/>
+      <stop offset="50%" stop-color="#edeeef"/>
+      <stop offset="100%" stop-color="#434B60"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-0.72s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-0.72s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g5" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ffd36b"/>
-      <stop offset="50%" stop-color="#5a7bff"/>
-      <stop offset="100%" stop-color="#7cf7d4"/>
+      <stop offset="0%" stop-color="#edeeef"/>
+      <stop offset="50%" stop-color="#434B60"/>
+      <stop offset="100%" stop-color="#629FBC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-0.90s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-0.90s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g6" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ff6bd6"/>
-      <stop offset="50%" stop-color="#7cf7d4"/>
-      <stop offset="100%" stop-color="#ffd36b"/>
+      <stop offset="0%" stop-color="#6274BC"/>
+      <stop offset="50%" stop-color="#629FBC"/>
+      <stop offset="100%" stop-color="#edeeef"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.08s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.08s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g7" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#5a7bff"/>
-      <stop offset="50%" stop-color="#ffd36b"/>
-      <stop offset="100%" stop-color="#ff6bd6"/>
+      <stop offset="0%" stop-color="#434B60"/>
+      <stop offset="50%" stop-color="#edeeef"/>
+      <stop offset="100%" stop-color="#6274BC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.26s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.26s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g8" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#7cf7d4"/>
-      <stop offset="50%" stop-color="#ffd36b"/>
-      <stop offset="100%" stop-color="#5a7bff"/>
+      <stop offset="0%" stop-color="#629FBC"/>
+      <stop offset="50%" stop-color="#434B60"/>
+      <stop offset="100%" stop-color="#edeeef"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.44s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.44s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g9" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ffd36b"/>
-      <stop offset="50%" stop-color="#ff6bd6"/>
-      <stop offset="100%" stop-color="#7cf7d4"/>
+      <stop offset="0%" stop-color="#edeeef"/>
+      <stop offset="50%" stop-color="#6274BC"/>
+      <stop offset="100%" stop-color="#629FBC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.62s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.62s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g10" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ff6bd6"/>
-      <stop offset="50%" stop-color="#5a7bff"/>
-      <stop offset="100%" stop-color="#ffd36b"/>
+      <stop offset="0%" stop-color="#6274BC"/>
+      <stop offset="50%" stop-color="#434B60"/>
+      <stop offset="100%" stop-color="#edeeef"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.80s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.80s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g11" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#5a7bff"/>
-      <stop offset="50%" stop-color="#7cf7d4"/>
-      <stop offset="100%" stop-color="#ff6bd6"/>
+      <stop offset="0%" stop-color="#434B60"/>
+      <stop offset="50%" stop-color="#629FBC"/>
+      <stop offset="100%" stop-color="#6274BC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-1.98s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-1.98s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g12" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#7cf7d4"/>
-      <stop offset="50%" stop-color="#ff6bd6"/>
-      <stop offset="100%" stop-color="#ffd36b"/>
+      <stop offset="0%" stop-color="#629FBC"/>
+      <stop offset="50%" stop-color="#edeeef"/>
+      <stop offset="100%" stop-color="#6274BC"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-2.16s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-2.16s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="g13" x1="-40%" y1="0%" x2="140%" y2="0%">
-      <stop offset="0%" stop-color="#ffd36b"/>
-      <stop offset="50%" stop-color="#7cf7d4"/>
-      <stop offset="100%" stop-color="#5a7bff"/>
+      <stop offset="0%" stop-color="#edeeef"/>
+      <stop offset="50%" stop-color="#629FBC"/>
+      <stop offset="100%" stop-color="#434B60"/>
       <animate attributeName="x1" values="-60%;40%;-60%" dur="2.6s" begin="-2.34s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="120%;220%;120%" dur="2.6s" begin="-2.34s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7cf7d4" stop-opacity="0.9"/>
-      <stop offset="50%" stop-color="#5a7bff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#ff6bd6" stop-opacity="0.9"/>
+      <stop offset="0%" stop-color="#629FBC" stop-opacity="0.92"/>
+      <stop offset="50%" stop-color="#6274BC" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#edeeef" stop-opacity="0.88"/>
       <animate attributeName="x1" values="-20%;120%;-20%" dur="3.4s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="80%;220%;80%" dur="3.4s" repeatCount="indefinite"/>
     </linearGradient>
@@ -170,22 +170,22 @@
     </rect>
 
     <g transform="translate(28 32)" opacity="0.92">
-      <circle r="10.5" fill="none" stroke="#d9e6ff" stroke-opacity="0.35" stroke-width="2"/>
-      <path d="M-5 1 C-2 -6, 2 -6, 5 1 C3 6, -3 6, -5 1 Z" fill="none" stroke="#d9e6ff" stroke-opacity="0.65" stroke-width="1.8" stroke-linejoin="round"/>
-      <circle cx="-3.6" cy="-0.6" r="0.9" fill="#d9e6ff" fill-opacity="0.7"/>
-      <circle cx="3.6" cy="-0.6" r="0.9" fill="#d9e6ff" fill-opacity="0.7"/>
+      <circle r="10.5" fill="none" stroke="#edeeef" stroke-opacity="0.40" stroke-width="2"/>
+      <path d="M-5 1 C-2 -6, 2 -6, 5 1 C3 6, -3 6, -5 1 Z" fill="none" stroke="#edeeef" stroke-opacity="0.70" stroke-width="1.8" stroke-linejoin="round"/>
+      <circle cx="-3.6" cy="-0.6" r="0.9" fill="#edeeef" fill-opacity="0.75"/>
+      <circle cx="3.6" cy="-0.6" r="0.9" fill="#edeeef" fill-opacity="0.75"/>
     </g>
 
     <g opacity="0.6">
-      <circle cx="345" cy="22" r="1.6" fill="#7cf7d4">
+      <circle cx="345" cy="22" r="1.6" fill="#629FBC">
         <animate attributeName="cy" values="22;18;22" dur="2.2s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.2s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="372" cy="42" r="1.4" fill="#ff6bd6">
+      <circle cx="372" cy="42" r="1.4" fill="#6274BC">
         <animate attributeName="cy" values="42;46;42" dur="2.6s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="392" cy="28" r="1.2" fill="#ffd36b">
+      <circle cx="392" cy="28" r="1.2" fill="#edeeef">
         <animate attributeName="cy" values="28;24;28" dur="2.0s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.2;0.65;0.2" dur="2.0s" repeatCount="indefinite"/>
       </circle>
@@ -199,7 +199,7 @@
         <tspan fill="url(#g1)">A</tspan>
         <tspan fill="url(#g2)">B</tspan>
         <tspan fill="url(#g3)">R</tspan>
-        <tspan fill="#d9e6ff" fill-opacity="0.55">-</tspan> 
+        <tspan fill="#edeeef" fill-opacity="0.60">-</tspan>
         <tspan fill="url(#g4)">C</tspan>
         <tspan fill="url(#g5)">A</tspan>
         <tspan fill="url(#g6)">R</tspan>
@@ -211,10 +211,11 @@
       <text x="78" y="44" dominant-baseline="middle"
             font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
             font-size="11" font-weight="650" letter-spacing="0.8"
-            fill="#d9e6ff" fill-opacity="0.62">
+            fill="#edeeef" fill-opacity="0.66">
         portfolio - experience - skills
       </text>
     </g>
   </a>
 </svg>
+
 
