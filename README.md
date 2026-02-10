@@ -32,6 +32,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://hh.ru/resume/8d121a6aff0df318cf0039ed1f43543442796a" target="_blank">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" />
+  </a>
+</p>
+
 
 <div align="center">
   <p>
