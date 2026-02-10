@@ -24,6 +24,11 @@
   <a href="https://www.linkedin.com/in/sergey-sablin/" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/linkedin.svg" />
   </a>
+   <br />
+  <a href="https://drive.google.com/file/d/1c1zcVq30DFqpmFMCVIcR7P90m_S6xDs4/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
+  </a>
 </p>
 
 <p align="center">
