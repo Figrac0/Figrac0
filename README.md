@@ -36,7 +36,7 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
   </a>
   <br />
-  <a href="https://drive.google.com/uc?export=download&id=1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV" target="_blank" rel="noopener noreferrer"
+  <a href="https://drive.google.com/file/d/1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
      style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
@@ -47,7 +47,7 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
   </a>
   <br />
-  <a href="https://drive.google.com/uc?export=download&id=1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV" target="_blank" rel="noopener noreferrer"
+  <a href="https://drive.google.com/file/d/1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
      style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
