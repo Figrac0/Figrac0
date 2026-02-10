@@ -27,6 +27,29 @@
 </p>
 
 <p align="center">
+  <a href="https://career.habr.com/figraco" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
+  </a>
+  <br />
+  <a href="https://drive.google.com/uc?export=download&id=1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+    PDF
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hh.ru/resume/8d121a6aff0df318cf0039ed1f43543442796a" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
+  </a>
+  <br />
+  <a href="https://drive.google.com/uc?export=download&id=1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+    PDF
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://career.habr.com/figraco" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" />
   </a>
