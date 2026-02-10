@@ -21,6 +21,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sergey-sablin/" target="_blank">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/linkedin.svg" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://career.habr.com/figraco" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" />
   </a>
