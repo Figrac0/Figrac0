@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">
+   <a href="https://next-js-blog-nine.vercel.app/" target="_blank">
   <img
     src="https://github.com/Figrac0/Figrac0/raw/main/banner.svg"
     width="1400"
