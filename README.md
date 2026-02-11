@@ -201,31 +201,32 @@ This allows you to quickly explore the **interface** and **functionality** witho
 • Avatar Type Recognition Research  
 ML pipeline for classifying avatars (real / drawing / generated)  
 Stack: PyTorch, timm, Grad-CAM  
-Result: F1 ≈ 0.98, presented at MSU Congress 2025 
+Result: F1 ≈ 0.98, presented at MSU Congress 2025 <br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" />
 
 • JavaScript SPA Library  
 Reusable UI components with router and global state  
 Stack: JavaScript, SPA architecture  
-Result: 30+ components, used in multiple projects  
+Result: 30+ components, used in multiple projects <br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
 
 • Cinema Booking System  
 Real-time booking platform with authentication and filtering  
 Stack: React, Node.js, JWT  
-Result: full client-server architecture implemented
+Result: full client-server architecture implemented <br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
 
 • Admin Dashboards  
 Interactive dashboards with filtering, calendars and analytics  
 Stack: React, REST API  
-Result: complex state and dynamic UI
+Result: complex state and dynamic UI <br/>
+<img 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
 
 • API-based Applications  
 Integration of public APIs with interactive interfaces  
 Stack: React, REST  
-Result: several educational and production projects
+Result: several educational and production projects <br/>
  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" />
 
 <p align="center">
