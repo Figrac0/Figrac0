@@ -9,6 +9,20 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTVzYWN0dHBvenA5YXpqNmpjc2w4M2V2Y253cWU0cHNmaHBnaXdubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Y1qEhVzH1ZcjlMsau/giphy.webp"
+    width="40"
+    height="40"
+    alt="open"
+  />
+</p>
+
+<details>
+  <summary>CONTACTS · SOCIALS · CV</summary>
+
+<br/>
+
+<p align="center">
   <a href="https://next-js-blog-nine.vercel.app/" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/blog-button.svg" />
   </a>
@@ -24,101 +38,62 @@
   <a href="https://www.linkedin.com/in/sergey-sablin/" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/linkedin.svg" />
   </a>
-   <br />
-  <a href="https://drive.google.com/file/d/1c1zcVq30DFqpmFMCVIcR7P90m_S6xDs4/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+  <br />
+  <a href="https://drive.google.com/file/d/1c1zcVq30DFqpmFMCVIcR7P90m_S6xDs4/view?usp=drive_link" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://career.habr.com/figraco" target="_blank" rel="noopener noreferrer">
+  <a href="https://career.habr.com/figraco" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+  <a href="https://drive.google.com/file/d/1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV/view?usp=drive_link" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hh.ru/resume/8d121a6aff0df318cf0039ed1f43543442796a" target="_blank" rel="noopener noreferrer">
+  <a href="https://hh.ru/resume/8d121a6aff0df318cf0039ed1f43543442796a" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block;margin-top:6px;padding:2px 10px;border:1px solid #c9c9c9;border-radius:10px;font-size:12px;line-height:18px;text-decoration:none;color:#24292f;background:#ffffff;">
+  <a href="https://drive.google.com/file/d/1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV/view?usp=drive_link" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
 </p>
 
-
 <div align="center">
+
   <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
-      <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmEzM3JiZHE1cWd0aHV3c2IwbjlvZGp5YXN0OTlqOTU5cTFhMDlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oJqeXsRlXb6F2/giphy.gif"
-        width="58"
-        height="58"
-        alt="Gmail"
-      />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmEzM3JiZHE1cWd0aHV3c2IwbjlvZGp5YXN0OTlqOTU5cTFhMDlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oJqeXsRlXb6F2/giphy.gif" width="58" height="58" alt="Gmail"/>
     </a>
   </p>
 
   <p>
     <a href="https://wa.me/89276871214" target="_blank">
-      <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OrNkIcgmjBQeFM1vEs/giphy.webp"
-        width="56"
-        height="56"
-        alt="WhatsApp"
-      />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6OTBkYmJ0eTB5M3dheGQzZDR5NHh6cWJwaXB3ZjlveXVqNmtkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OrNkIcgmjBQeFM1vEs/giphy.webp" width="56" height="56" alt="WhatsApp"/>
     </a>
   </p>
 
   <p>
     <a href="https://vk.com/id665985928" target="_blank">
-      <img
-        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1o6rpNIRjOgR9eR1Wj/giphy.webp"
-        width="47"
-        height="47"
-        alt="VK"
-      />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhteTk2dXVmMXdxZzlianh4NWtkOXFkbHA2c3J2YWd4NHZvbmgzYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1o6rpNIRjOgR9eR1Wj/giphy.webp" width="47" height="47" alt="VK"/>
     </a>
   </p>
 
   <p>
     <a href="https://t.me/fajllovt42" target="_blank">
-      <img
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxa3NjcXFsdmpxMGxnYmx3dHdoOGRkdTRucm00NmJmbGJjMGkzMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KAyJgCjqr2q5K2QL54/giphy.webp"
-        width="47"
-        height="47"
-        alt="Telegram"
-      />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxa3NjcXFsdmpxMGxnYmx3dHdoOGRkdTRucm00NmJmbGJjMGkzMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KAyJgCjqr2q5K2QL54/giphy.webp" width="47" height="47" alt="Telegram"/>
     </a>
   </p>
+
 </div>
 
+</details>
 
-<!--
-### 📬 Contact Me
-
-<div style="display: flex; align-items: center; margin-top: 10px;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=48165&format=png" width="40" height="40" />
-  </a>
-  <a href="https://wa.me/89276871214" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=43677&format=png" width="40" height="40" />
-  </a>
-  <a href="https://vk.com/id665985928" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=48220&format=png" width="40" height="40" />
-  </a>
-  <a href="https://web.telegram.org/k/#@fajllovt42" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=114954&format=png" width="40" height="40" />
-  </a>
-</div>
--->
 
 <img
   src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTVzYWN0dHBvenA5YXpqNmpjc2w4M2V2Y253cWU0cHNmaHBnaXdubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Y1qEhVzH1ZcjlMsau/giphy.webp"
