@@ -20,7 +20,7 @@
 </p>
 
 <details align="center">
-  <summary>CONTACTS · SOCIALS · CV</summary>
+  <summary>BLOG · PORTFOLIO · CV · SOCIALS</summary>
 <br/>
 
 <p align="center">
