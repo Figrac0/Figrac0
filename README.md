@@ -200,7 +200,7 @@ Result: F1 ≈ 0.98 on imbalanced data; independent balanced test shows strong b
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" />
 
 
-• JavaScript SPA Library<br/>
+• <a href="https://github.com/Figrac0/VKR_LIB" target="_blank">JavaScript SPA Library</a><br/>
 Lightweight framework-free library for building Single Page Applications<br/>
 Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
