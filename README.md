@@ -153,18 +153,10 @@
 }
 ```
 
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTFiNGVvOGJpbTN3eWxqaDloN2Z1YTN4ZXF6c2lzbjZrMGtyZDF4ZSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/weQG1zCbffpew/giphy.webp"
-    width="120"
-    alt="gif"
-  />
-</p>
-
 </details> 
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">
+   <a href="https://next-js-blog-nine.vercel.app/" target="_blank">
   <img  
     src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDc2YTJoMmtibHNoYjRvNDJpN2s2MHh4YXRyNWYyY3A4OXdpeGJtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xAKhG9iFXynDh2LEg5/giphy.webp"
     width="1400"
@@ -201,36 +193,40 @@ This allows you to quickly explore the **interface** and **functionality** witho
   Portfolio Highlights
 </h3>
 
-• Avatar Type Recognition Research  
-ML pipeline for classifying avatars (real / drawing / generated)  
-Stack: PyTorch, timm, Grad-CAM  
-Result: F1 ≈ 0.98, presented at MSU Congress 2025 <br/>
+• <a href="https://github.com/Figrac0/Avatar-Type-Recognition" target="_blank">Avatar Type Recognition – Class Imbalance Study</a><br/>
+Three-class classification of avatars (real – drawing – AI-generated)<br/>
+Stack: PyTorch, timm, Grad-CAM<br/>
+Result: F1 ≈ 0.98 on imbalanced data; independent balanced test shows strong bias toward the dominant class and significant Macro F1 drop<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" />
 
-• JavaScript SPA Library  
-Reusable UI components with router and global state  
-Stack: JavaScript, SPA architecture  
-Result: 30+ components, used in multiple projects <br/>
+
+• JavaScript SPA Library<br/>
+Lightweight framework-free library for building Single Page Applications<br/>
+Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
+Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
 
-• Cinema Booking System  
-Real-time booking platform with authentication and filtering  
-Stack: React, Node.js, JWT  
-Result: full client-server architecture implemented <br/>
+
+• <a href="https://github.com/Figrac0/Cinema" target="_blank">Cinema Booking System</a><br/>
+Full-stack web application for searching movies and booking seats with real-time updates<br/>
+Stack: React, Node.js, Express, PostgreSQL, JWT<br/>
+Result: complete client–server architecture with authentication, seat booking, filtering, and booking history<br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
 
-• Admin Dashboards  
-Interactive dashboards with filtering, calendars and analytics  
-Stack: React, REST API  
-Result: complex state and dynamic UI <br/>
+
+• <a href="https://github.com/Figrac0/event-flow-api" target="_blank">NextEvents – Event Management Platform</a><br/>
+Full-featured event discovery and management system with filtering, comments, favorites, and calendar integration<br/>
+Stack: Next.js, React, TypeScript, MongoDB, Firebase, React Query, Framer Motion<br/>
+Result: production-ready full-stack platform with hybrid SSR/SSG rendering, real-time interactions, and optimized performance<br/>
 <img 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
 
-• API-based Applications  
-Integration of public APIs with interactive interfaces  
-Stack: React, REST  
-Result: several educational and production projects <br/>
- <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" />
+• <a href="https://github.com/Figrac0/Admin-panel" target="_blank">Admin Panel – Appointment Management</a><br/>
+Administrative dashboard for managing client appointments with calendar view and real-time updates<br/>
+Stack: React, TypeScript, SCSS, REST API, Day.js, React-Calendar<br/>
+Result: full CRUD workflow with custom hooks, global state management, validation, and dynamic UI<br/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" />
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
