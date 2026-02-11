@@ -105,8 +105,8 @@
 />
 </p>
 
-<details align="center">
-  <summary>CLICK TO OPEN · <code>profile.config.json</code></summary>
+<details >
+  <summary align="center">CLICK TO OPEN · <code>profile.config.json</code></summary>
   
 ```json
 {
