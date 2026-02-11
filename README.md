@@ -21,7 +21,6 @@
 
 <details>
   <summary>CONTACTS · SOCIALS · CV</summary>
-<p/>
 <br/>
 
 <p align="center">
@@ -95,6 +94,8 @@
 </div>
 
 </details>
+
+</p>
 
 
 <img
