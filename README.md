@@ -8,7 +8,7 @@
       </a>
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTVzYWN0dHBvenA5YXpqNmpjc2w4M2V2Y253cWU0cHNmaHBnaXdubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Y1qEhVzH1ZcjlMsau/giphy.webp"
     width="40"
