@@ -166,8 +166,6 @@
      </a>
 </p>
 
-
-
 <blockquote>
   <p>
     <img
@@ -199,20 +197,11 @@ Stack: PyTorch, timm, Grad-CAM<br/>
 Result: F1 ≈ 0.98 on imbalanced data; independent balanced test shows strong bias toward the dominant class and significant Macro F1 drop<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" />
 
-
 • <a href="https://github.com/Figrac0/VKR_LIB" target="_blank">JavaScript SPA Library</a><br/>
 Lightweight framework-free library for building Single Page Applications<br/>
 Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
-
-
-• <a href="https://github.com/Figrac0/Cinema" target="_blank">Cinema Booking System</a><br/>
-Full-stack web application for searching movies and booking seats with real-time updates<br/>
-Stack: React, Node.js, Express, PostgreSQL, JWT<br/>
-Result: complete client–server architecture with authentication, seat booking, filtering, and booking history<br/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
-
 
 • <a href="https://github.com/Figrac0/event-flow-api" target="_blank">NextEvents – Event Management Platform</a><br/>
 Full-featured event discovery and management system with filtering, comments, favorites, and calendar integration<br/>
@@ -227,6 +216,11 @@ Stack: React, TypeScript, SCSS, REST API, Day.js, React-Calendar<br/>
 Result: full CRUD workflow with custom hooks, global state management, validation, and dynamic UI<br/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" />
 
+• <a href="https://github.com/Figrac0/Cinema" target="_blank">Cinema Booking System</a><br/>
+Full-stack web application for searching movies and booking seats with real-time updates<br/>
+Stack: React, Node.js, Express, PostgreSQL, JWT<br/>
+Result: complete client–server architecture with authentication, seat booking, filtering, and booking history<br/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
