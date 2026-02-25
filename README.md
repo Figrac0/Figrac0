@@ -203,12 +203,28 @@ Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
 
+<details>
+<summary align="center">CLICK TO OPEN · <code>profile.config.json</code> · Click to view other significant projects</summary>
+
+<br/>
+
+• <a href="https://github.com/Figrac0/Express_Shop" target="_blank">Express Shop – Node.js E-Commerce (MVC, MongoDB, Stripe, PDF Invoices)</a><br/>
+Production-oriented e-commerce application built with Node.js and Express using MVC architecture<br/>
+Stack: Node.js, Express, MongoDB (Mongoose), Stripe, PDFKit, EJS, Sessions, CSRF<br/>
+Result: secure authentication, persistent carts, Stripe Checkout payments, PDF invoice generation, email-based password reset, and clean MVC separation<br/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJrYzR6OXN6cHpnM2h4dG96cDV4aHdwOGt3ZndkZ3J1cW9kZnRzZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
+
+• <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
+Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
+Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
+Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
+
 • <a href="https://github.com/Figrac0/event-flow-api" target="_blank">NextEvents – Event Management Platform</a><br/>
 Full-featured event discovery and management system with filtering, comments, favorites, and calendar integration<br/>
 Stack: Next.js, React, TypeScript, MongoDB, Firebase, React Query, Framer Motion<br/>
 Result: production-ready full-stack platform with hybrid SSR/SSG rendering, real-time interactions, and optimized performance<br/>
-<img 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
 
 • <a href="https://github.com/Figrac0/Admin-panel" target="_blank">Admin Panel – Appointment Management</a><br/>
 Administrative dashboard for managing client appointments with calendar view and real-time updates<br/>
@@ -221,6 +237,8 @@ Full-stack web application for searching movies and booking seats with real-time
 Stack: React, Node.js, Express, PostgreSQL, JWT<br/>
 Result: complete client–server architecture with authentication, seat booking, filtering, and booking history<br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
+
+</details>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5NGE3Y2RqbWp6ZG9kczR0ZnN3ZjdnZXJ1NWpoMG1xanl4NnMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
