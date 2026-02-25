@@ -320,10 +320,24 @@ I’m committed to continuous **learning** and always **exploring** new technolo
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Figrac0&theme=aura" alt="Top Langs"/>
 </p>
 
-## 🌐 Socials 📬:
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serjjinius@gmail.com) 
-[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?logo=mail.ru&logoColor=white)](mailto:serjjinius_sablin@mail.ru) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Figrac0) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fajllovt42)
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=serjjiniuss@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://wa.me/89276871214" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://vk.com/id665985928" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://t.me/fajllovt42" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
