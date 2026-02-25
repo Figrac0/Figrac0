@@ -210,7 +210,7 @@ Result: multi-layer filtering architecture, custom i18n system, markdown process
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" />
 
 <details>
-<summary align="center">·<b>CLICK</b>to view other significant projects</summary>
+<summary align="center"><b>CLICK</b> to view other significant projects</summary>
 
 <br/>
 
