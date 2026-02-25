@@ -106,7 +106,7 @@
 </p>
 
 <details >
-  <summary align="center">CLICK TO OPEN · <code>profile.config.json</code></summary>
+  <summary align="center"><b>CLICK</b> TO OPEN · <code>profile.config.json</code></summary>
   
 ```json
 {
@@ -203,8 +203,14 @@ Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
 
+• <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
+Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
+Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
+Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" />
+
 <details>
-<summary align="center">CLICK TO OPEN · <code>profile.config.json</code> · Click to view other significant projects</summary>
+<summary align="center">·<b>CLICK</b>to view other significant projects</summary>
 
 <br/>
 
@@ -212,13 +218,7 @@ Result: 30+ UI components, custom router, global store, and admin panel used in 
 Production-oriented e-commerce application built with Node.js and Express using MVC architecture<br/>
 Stack: Node.js, Express, MongoDB (Mongoose), Stripe, PDFKit, EJS, Sessions, CSRF<br/>
 Result: secure authentication, persistent carts, Stripe Checkout payments, PDF invoice generation, email-based password reset, and clean MVC separation<br/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJrYzR6OXN6cHpnM2h4dG96cDV4aHdwOGt3ZndkZ3J1cW9kZnRzZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
-
-• <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
-Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
-Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
-Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ1aGZmMzl3ajduZTJ3anVxZ3dkYWhtcjM1NjRmcTFxMXBuZWs2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Phna8ImVFWEqxPUIfk/giphy.gif" width="26" />
 
 • <a href="https://github.com/Figrac0/event-flow-api" target="_blank">NextEvents – Event Management Platform</a><br/>
 Full-featured event discovery and management system with filtering, comments, favorites, and calendar integration<br/>
@@ -259,7 +259,7 @@ Result: complete client–server architecture with authentication, seat booking,
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
 
 <details>
-  <summary>CLICK TO OPEN · Tech Stack (Full)</summary
+  <summary><b>CLICK</b> TO OPEN · Tech Stack (Full)</summary
 
 ---
 
