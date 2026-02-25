@@ -184,8 +184,8 @@ This allows you to quickly explore the **interface** and **functionality** witho
 <h3>
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5ZnZkZTZrdmZrNTlydjBscnRsM2ZqbWN4NjllbDF5eDJnazYwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S6Z6vk4Ex19kb5OjO8/giphy.gif"
-    width="35"
-    height="35"
+    width="26"
+    height="26"
     alt="highlight"
   />
   Portfolio Highlights
@@ -195,19 +195,19 @@ This allows you to quickly explore the **interface** and **functionality** witho
 Three-class classification of avatars (real – drawing – AI-generated)<br/>
 Stack: PyTorch, timm, Grad-CAM<br/>
 Result: F1 ≈ 0.98 on imbalanced data; independent balanced test shows strong bias toward the dominant class and significant Macro F1 drop<br/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" />
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4aDl6NWdtNjhicnM0dHA5cnh2ODZjY3hsOGJmYjNsazRteG5ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.webp" width="26" /> -->
 
 • <a href="https://github.com/Figrac0/VKR_LIB" target="_blank">JavaScript SPA Library</a><br/>
 Lightweight framework-free library for building Single Page Applications<br/>
 Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" />
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" /> -->
 
 • <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
 Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
 Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
 Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" />
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" /> -->
 
 <details>
 <summary align="center"><b>CLICK</b> to view other significant projects</summary>
@@ -218,25 +218,25 @@ Result: multi-layer filtering architecture, custom i18n system, markdown process
 Production-oriented e-commerce application built with Node.js and Express using MVC architecture<br/>
 Stack: Node.js, Express, MongoDB (Mongoose), Stripe, PDFKit, EJS, Sessions, CSRF<br/>
 Result: secure authentication, persistent carts, Stripe Checkout payments, PDF invoice generation, email-based password reset, and clean MVC separation<br/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ1aGZmMzl3ajduZTJ3anVxZ3dkYWhtcjM1NjRmcTFxMXBuZWs2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Phna8ImVFWEqxPUIfk/giphy.gif" width="26" />
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ1aGZmMzl3ajduZTJ3anVxZ3dkYWhtcjM1NjRmcTFxMXBuZWs2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Phna8ImVFWEqxPUIfk/giphy.gif" width="26" /> -->
 
 • <a href="https://github.com/Figrac0/event-flow-api" target="_blank">NextEvents – Event Management Platform</a><br/>
 Full-featured event discovery and management system with filtering, comments, favorites, and calendar integration<br/>
 Stack: Next.js, React, TypeScript, MongoDB, Firebase, React Query, Framer Motion<br/>
 Result: production-ready full-stack platform with hybrid SSR/SSG rendering, real-time interactions, and optimized performance<br/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" />
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5OXZjbXE3bHlscmFoeDM4cW1sb3ZncDllMXBpaDhkYzZmcThtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/00bUlxLqZtyXU0xIEL/200.webp" width="26" /> -->
 
 • <a href="https://github.com/Figrac0/Admin-panel" target="_blank">Admin Panel – Appointment Management</a><br/>
 Administrative dashboard for managing client appointments with calendar view and real-time updates<br/>
 Stack: React, TypeScript, SCSS, REST API, Day.js, React-Calendar<br/>
 Result: full CRUD workflow with custom hooks, global state management, validation, and dynamic UI<br/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" />
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czBteTkycm9iZzhqbXlyZnhyZ2s2YmRvNHhnNTRldHo0cHMyOW85dSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/OP4C9oeeSVIrwgFNAk/200.webp" width="26" /> -->
 
 • <a href="https://github.com/Figrac0/Cinema" target="_blank">Cinema Booking System</a><br/>
 Full-stack web application for searching movies and booking seats with real-time updates<br/>
 Stack: React, Node.js, Express, PostgreSQL, JWT<br/>
 Result: complete client–server architecture with authentication, seat booking, filtering, and booking history<br/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" />
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmF5YmtnMGhzMG56bWY0ZG5hM3B3Z2FzamQxcTA0MGVpZTV1dHc5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JjDtGSjCxJDUM5HMBH/giphy.webp" width="26" /> -->
 
 </details>
 
