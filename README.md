@@ -24,7 +24,7 @@
 </p>
 
 <details align="center">
-  <summary>BLOG · PORTFOLIO · CV · SOCIALS</summary>
+  <summary>PORTFOLIO · CV · SOCIALS</summary>
 <br/>
 
 <p align="center">
