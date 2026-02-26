@@ -8,7 +8,11 @@
       </a>
 </p>
 
-
+<p align="center">
+  <a href="https://next-js-blog-nine.vercel.app/" target="_blank">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/blog-button.svg" />
+  </a>
+</p>
 
 <p align="center">
   <img
@@ -17,12 +21,6 @@
     height="40"
     alt="open"
   />
-</p>
-
-<p align="center">
-  <a href="https://next-js-blog-nine.vercel.app/" target="_blank">
-    <img src="https://github.com/Figrac0/Figrac0/blob/main/blog-button.svg" />
-  </a>
 </p>
 
 <details align="center">
