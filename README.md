@@ -48,7 +48,7 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1qjrqUYdUR8t3ur837D7qsj7P69kCr_eV/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1Cpswpo_In8ATc8sz3JfUw7f7LWxLQYN4/view?usp=drive_link" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
 </p>
@@ -58,7 +58,7 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1Az1XTqVE6BRkJOEKt-0uFFJjtF61iGLV/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1HivzQMz7HuzoL9gI56pe5E5PWY6viPoJ/view?usp=drive_link" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
   </a>
 </p>
