@@ -56,7 +56,7 @@
         fill="#0B1020"
         opacity="0.22"
       >
-        const app = () => render(); npm run build; git push origin main;
+        git clone https://github.com/Fugrac0/repository.git   git status  git commit -m "commit message"   git branch new-branch   git merge branch-name   git remote -v
       </text>
     </pattern>
 
