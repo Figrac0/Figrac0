@@ -27,11 +27,7 @@
   <summary>PORTFOLIO · CV · SOCIALS</summary>
 <br/>
 
-<p align="center">
-  <a href="https://figrac0.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergey-sablin/" target="_blank">
@@ -88,6 +84,12 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxa3NjcXFsdmpxMGxnYmx3dHdoOGRkdTRucm00NmJmbGJjMGkzMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KAyJgCjqr2q5K2QL54/giphy.webp" width="47" height="47" alt="Telegram"/>
     </a>
   </p>
+
+  <p align="center">
+  <a href="https://figrac0.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
+  </a>
+</p>
 
 </div>
 
