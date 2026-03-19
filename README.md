@@ -189,6 +189,12 @@ This allows you to quickly explore the **interface** and **functionality** witho
   Portfolio Highlights
 </h3>
 
+• <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
+Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
+Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
+Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" /> -->
+
 • <a href="https://github.com/Figrac0/Avatar-Type-Recognition" target="_blank">Avatar Type Recognition – Class Imbalance Study</a><br/>
 Three-class classification of avatars (real – drawing – AI-generated)<br/>
 Stack: PyTorch, timm, Grad-CAM<br/>
@@ -200,12 +206,6 @@ Lightweight framework-free library for building Single Page Applications<br/>
 Stack: JavaScript (ES6+), SCSS, Gulp, PHP (admin panel)<br/>
 Result: 30+ UI components, custom router, global store, and admin panel used in multiple SPA projects<br/>
 <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkxeXU5M3NtZ2F3ejR3YmF2am5qcjliNW1xaHpvOTVydHhrc3JkbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.webp" width="26" /> -->
-
-• <a href="https://github.com/Figrac0/NextJS-Blog" target="_blank">NextJS Blog – Multilingual Platform with Interactive Systems</a><br/>
-Full-featured blog and portfolio platform with multilingual support, intelligent filtering, and interactive JavaScript game<br/>
-Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
-Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" /> -->
 
 <details>
 <summary align="center"><b>CLICK</b> to view other significant projects</summary>
