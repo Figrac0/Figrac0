@@ -59,6 +59,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://figrac0.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
+  </a>
+</p>
+
 <div align="center">
 
   <p>
@@ -85,11 +91,7 @@
     </a>
   </p>
 
-  <p align="center">
-  <a href="https://figrac0.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
-  </a>
-</p>
+  
 
 </div>
 
