@@ -1,100 +1,133 @@
-<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="64" viewBox="0 0 420 64" role="img" aria-label="Resume PDF">
   <defs>
-    <linearGradient id="btnBg" x1="16" y1="10" x2="204" y2="54" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#6366F1"/>
+    <linearGradient id="resumeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1220"/>
+      <stop offset="45%" stop-color="#18223a"/>
+      <stop offset="100%" stop-color="#0a101b"/>
     </linearGradient>
 
-    <linearGradient id="btnStroke" x1="24" y1="8" x2="196" y2="56" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+    <radialGradient id="resumeAura" cx="28%" cy="35%" r="82%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.24"/>
+      <stop offset="52%" stop-color="#3b82f6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="resumeSoftShadow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.22 0" result="s"/>
+      <feMerge>
+        <feMergeNode in="s"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="resumeTextGlow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="2.2" result="tb"/>
+      <feColorMatrix in="tb" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.46 0" result="tg"/>
+      <feMerge>
+        <feMergeNode in="tg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="resumeStroke" x1="-30%" y1="0%" x2="130%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.95"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.70"/>
+      <stop offset="75%" stop-color="#60a5fa" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.95"/>
+      <animate attributeName="x1" values="-40%;60%;-40%" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="120%;220%;120%" dur="3.2s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <clipPath id="clipBtn">
-      <rect x="6" y="6" width="208" height="52" rx="18"/>
-    </clipPath>
+    <linearGradient id="resumeShine" x1="-60%" y1="0%" x2="160%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <animate attributeName="x1" values="-80%;40%;-80%" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="120%;240%;120%" dur="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="resumeTextGrad" x1="-50%" y1="0%" x2="150%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#c4b5fd"/>
+      <stop offset="70%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+      <animate attributeName="x1" values="-70%;30%;-70%" dur="2.7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="130%;230%;130%" dur="2.7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="resumePdfGrad" x1="-50%" y1="0%" x2="150%" y2="0%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="50%" stop-color="#ddd6fe"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
+      <animate attributeName="x1" values="-70%;30%;-70%" dur="2.9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="130%;230%;130%" dur="2.9s" repeatCount="indefinite"/>
+    </linearGradient>
   </defs>
 
-  <rect width="220" height="64" fill="#FFFFFF"/>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <rect x="10" y="10" width="400" height="44" rx="16" fill="url(#resumeBg)" filter="url(#resumeSoftShadow)"/>
+    <rect x="10" y="10" width="400" height="44" rx="16" fill="url(#resumeAura)"/>
 
-  <g style="cursor:pointer">
-    <rect x="6" y="8" width="208" height="52" rx="18" fill="url(#btnBg)">
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 0; 0 -1; 0 0; 0 1; 0 0"
-        dur="3.2s"
-        repeatCount="indefinite"
-      />
+    <rect x="10.5" y="10.5" width="399" height="43" rx="15.5"
+          fill="none" stroke="url(#resumeStroke)" stroke-width="1.5"
+          stroke-dasharray="7 11" stroke-linecap="round" opacity="0.92">
+      <animate attributeName="stroke-dashoffset" values="0;-150" dur="2.5s" repeatCount="indefinite"/>
     </rect>
 
-    <rect
-      x="7"
-      y="9"
-      width="206"
-      height="50"
-      rx="17"
-      stroke="url(#btnStroke)"
-      stroke-width="1.2"
-      opacity="0.85"
-    />
+    <rect x="12" y="12" width="396" height="40" rx="14" fill="url(#resumeShine)" opacity="0.65"/>
 
-    <g clip-path="url(#clipBtn)">
-      <ellipse cx="36" cy="18" rx="34" ry="12" fill="#FFFFFF" opacity="0.12">
-        <animate attributeName="cx" values="-10;230" dur="3.6s" repeatCount="indefinite"/>
-      </ellipse>
+    <g transform="translate(36 32)">
+      <rect x="-12" y="-12" width="24" height="24" rx="7" fill="#8b5cf6" opacity="0.90"/>
+      <path d="M-5.5 -5H2.5 L6 -1.5 V8.5 C6 9.6 5.1 10.5 4 10.5 H-5.5 C-6.6 10.5 -7.5 9.6 -7.5 8.5 V-3 C-7.5 -4.1 -6.6 -5 -5.5 -5Z"
+            fill="none" stroke="#eef2ff" stroke-width="1.7" stroke-linejoin="round" opacity="0.95"/>
+      <path d="M2.5 -5V-1.5H6" fill="none" stroke="#eef2ff" stroke-width="1.7" stroke-linejoin="round" opacity="0.95"/>
+      <path d="M-3.8 0.8H2.4 M-3.8 4.0H2.4 M-3.8 7.2H0.8"
+            fill="none" stroke="#eef2ff" stroke-width="1.55" stroke-linecap="round" opacity="0.92"/>
 
-      <circle cx="28" cy="48" r="2.6" fill="#FFFFFF" opacity="0.32">
-        <animate attributeName="cy" values="48;45;48" dur="2s" repeatCount="indefinite"/>
+      <circle cx="11.4" cy="-10.2" r="1.15" fill="#bfdbfe" opacity="0.50">
+        <animate attributeName="opacity" values="0.16;0.62;0.16" dur="2.1s" repeatCount="indefinite"/>
       </circle>
-
-      <circle cx="44" cy="50" r="2.1" fill="#FFFFFF" opacity="0.22">
-        <animate attributeName="cy" values="50;47;50" dur="2.4s" repeatCount="indefinite"/>
-      </circle>
-
-      <circle cx="188" cy="18" r="2.8" fill="#FFFFFF" opacity="0.26">
-        <animate attributeName="cy" values="18;21;18" dur="2.1s" repeatCount="indefinite"/>
+      <circle cx="-11.0" cy="10.8" r="1.0" fill="#ffffff" opacity="0.28">
+        <animate attributeName="opacity" values="0.10;0.42;0.10" dur="2.6s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <g transform="translate(20 18)">
-      <rect x="0" y="0" width="18" height="20" rx="4" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.62" stroke-width="1.2"/>
-      <path d="M5 7.5H13M5 11.5H13M5 15.5H10.5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
-      <path d="M13 0V5H18" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="1.3" stroke-linejoin="round"/>
+    <g opacity="0.52">
+      <circle cx="349" cy="22" r="1.6" fill="#8b5cf6">
+        <animate attributeName="cy" values="22;18;22" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.16;0.68;0.16" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="376" cy="42" r="1.4" fill="#ffffff">
+        <animate attributeName="cy" values="42;46;42" dur="2.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.12;0.48;0.12" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="394" cy="30" r="1.2" fill="#60a5fa">
+        <animate attributeName="cy" values="30;26;30" dur="1.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.14;0.58;0.14" dur="1.9s" repeatCount="indefinite"/>
+      </circle>
     </g>
 
-    <g>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 0; 0.6 -0.6; 0 0; -0.6 0.6; 0 0"
-        dur="2.6s"
-        repeatCount="indefinite"
-      />
-      <text
-        x="108"
-        y="34"
-        text-anchor="middle"
-        font-family="Inter, Arial, sans-serif"
-        font-size="13"
-        font-weight="700"
-        fill="#FFFFFF"
-        letter-spacing="0.2"
-      >
-        Resume
+    <g filter="url(#resumeTextGlow)" text-anchor="middle">
+      <text x="210" y="29" dominant-baseline="middle"
+            font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="18" font-weight="850" letter-spacing="1.05">
+        <tspan fill="url(#resumeTextGrad)">Resume</tspan>
       </text>
-      <text
-        x="108"
-        y="46"
-        text-anchor="middle"
-        font-family="Inter, Arial, sans-serif"
-        font-size="8"
-        font-weight="600"
-        fill="#EDE9FE"
-        letter-spacing="1.2"
-      >
-        PDF
+
+      <text x="210" y="43.5" dominant-baseline="middle"
+            font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="10.4" font-weight="700" letter-spacing="1.8">
+        <tspan fill="url(#resumePdfGrad)">PDF</tspan>
       </text>
     </g>
-  </g>
+  </a>
 </svg>
