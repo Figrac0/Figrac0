@@ -1,103 +1,100 @@
-<svg width="260" height="84" viewBox="0 0 260 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="20" y1="12" x2="240" y2="72" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#6EE7F9"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#EC4899"/>
-      <animateTransform
-        attributeName="gradientTransform"
-        type="rotate"
-        from="0 130 42"
-        to="360 130 42"
-        dur="8s"
-        repeatCount="indefinite"
-      />
+    <linearGradient id="btnBg" x1="16" y1="10" x2="204" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
     </linearGradient>
 
-    <linearGradient id="glowStroke" x1="0" y1="0" x2="260" y2="84" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.2"/>
+    <linearGradient id="btnStroke" x1="24" y1="8" x2="196" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.18"/>
     </linearGradient>
 
-    <filter id="shadow" x="-30%" y="-50%" width="160%" height="220%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#7C3AED" flood-opacity="0.35"/>
-    </filter>
-
-    <filter id="softGlow" x="-40%" y="-60%" width="180%" height="240%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <clipPath id="clip">
-      <rect x="10" y="10" width="240" height="64" rx="22"/>
+    <clipPath id="clipBtn">
+      <rect x="6" y="6" width="208" height="52" rx="18"/>
     </clipPath>
   </defs>
 
-  <g filter="url(#shadow)" style="cursor:pointer">
-    <rect x="10" y="10" width="240" height="64" rx="22" fill="url(#bg)">
+  <rect width="220" height="64" fill="#FFFFFF"/>
+
+  <g style="cursor:pointer">
+    <rect x="6" y="8" width="208" height="52" rx="18" fill="url(#btnBg)">
       <animateTransform
         attributeName="transform"
         type="translate"
-        values="0 0; 0 -2; 0 0; 0 2; 0 0"
+        values="0 0; 0 -1; 0 0; 0 1; 0 0"
         dur="3.2s"
         repeatCount="indefinite"
       />
     </rect>
 
-    <rect x="10.8" y="10.8" width="238.4" height="62.4" rx="21.2" stroke="url(#glowStroke)" stroke-width="1.6" opacity="0.9"/>
+    <rect
+      x="7"
+      y="9"
+      width="206"
+      height="50"
+      rx="17"
+      stroke="url(#btnStroke)"
+      stroke-width="1.2"
+      opacity="0.85"
+    />
 
-    <g clip-path="url(#clip)">
-      <ellipse cx="34" cy="20" rx="42" ry="18" fill="#FFFFFF" opacity="0.22" filter="url(#softGlow)">
-        <animate attributeName="cx" values="-20;280" dur="2.8s" repeatCount="indefinite"/>
+    <g clip-path="url(#clipBtn)">
+      <ellipse cx="36" cy="18" rx="34" ry="12" fill="#FFFFFF" opacity="0.12">
+        <animate attributeName="cx" values="-10;230" dur="3.6s" repeatCount="indefinite"/>
       </ellipse>
 
-      <rect x="-100" y="10" width="70" height="64" fill="#FFFFFF" opacity="0.18" transform="rotate(18)">
-        <animate attributeName="x" values="-120;320" dur="2.6s" repeatCount="indefinite"/>
-      </rect>
+      <circle cx="28" cy="48" r="2.6" fill="#FFFFFF" opacity="0.32">
+        <animate attributeName="cy" values="48;45;48" dur="2s" repeatCount="indefinite"/>
+      </circle>
 
-      <circle cx="34" cy="58" r="3.2" fill="#FFFFFF" opacity="0.55">
-        <animate attributeName="cy" values="58;54;58" dur="1.8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.2;0.65;0.2" dur="1.8s" repeatCount="indefinite"/>
+      <circle cx="44" cy="50" r="2.1" fill="#FFFFFF" opacity="0.22">
+        <animate attributeName="cy" values="50;47;50" dur="2.4s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="52" cy="62" r="2.5" fill="#FFFFFF" opacity="0.4">
-        <animate attributeName="cy" values="62;57;62" dur="2.1s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.1s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="218" cy="22" r="2.8" fill="#FFFFFF" opacity="0.45">
-        <animate attributeName="cy" values="22;27;22" dur="1.9s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.18;0.55;0.18" dur="1.9s" repeatCount="indefinite"/>
+
+      <circle cx="188" cy="18" r="2.8" fill="#FFFFFF" opacity="0.26">
+        <animate attributeName="cy" values="18;21;18" dur="2.1s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <g>
-      <rect x="28" y="23" width="18" height="22" rx="4" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.65" stroke-width="1.4"/>
-      <path d="M33 30.5H41M33 35H41M33 39.5H38.5" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round"/>
-      <path d="M42 23V29H48" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="1.5" stroke-linejoin="round"/>
+    <g transform="translate(20 18)">
+      <rect x="0" y="0" width="18" height="20" rx="4" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.62" stroke-width="1.2"/>
+      <path d="M5 7.5H13M5 11.5H13M5 15.5H10.5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M13 0V5H18" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="1.3" stroke-linejoin="round"/>
+    </g>
 
-      <g>
-        <animateTransform
-          attributeName="transform"
-          type="translate"
-          values="0 0; 1 -1; 0 0; -1 1; 0 0"
-          dur="2.4s"
-          repeatCount="indefinite"
-        />
-        <text
-          x="130"
-          y="48"
-          text-anchor="middle"
-          font-family="Inter, Arial, sans-serif"
-          font-size="24"
-          font-weight="700"
-          fill="#FFFFFF"
-          letter-spacing="0.4"
-        >
-          Resume
-        </text>
-      </g>
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0.6 -0.6; 0 0; -0.6 0.6; 0 0"
+        dur="2.6s"
+        repeatCount="indefinite"
+      />
+      <text
+        x="108"
+        y="34"
+        text-anchor="middle"
+        font-family="Inter, Arial, sans-serif"
+        font-size="13"
+        font-weight="700"
+        fill="#FFFFFF"
+        letter-spacing="0.2"
+      >
+        Resume
+      </text>
+      <text
+        x="108"
+        y="46"
+        text-anchor="middle"
+        font-family="Inter, Arial, sans-serif"
+        font-size="8"
+        font-weight="600"
+        fill="#EDE9FE"
+        letter-spacing="1.2"
+      >
+        PDF
+      </text>
     </g>
   </g>
 </svg>
