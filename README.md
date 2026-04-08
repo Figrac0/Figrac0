@@ -44,24 +44,12 @@
 </p>
 
 <p align="center">
-  <a href="https://career.habr.com/figraco" target="_blank">
-    <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
-  </a>
-  <br />
-</p>
-
-<p align="center">
   <a href="https://hh.ru/resume/8d121a6aff0df318cf0039ed1f43543442796a" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
   </a>
   <br />
 </p>
 
-<p align="center">
-  <a href="https://figrac0.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Figrac0/Figrac0/main/portfolio-button.svg" />
-  </a>
-</p>
 
 <div align="center">
 
