@@ -30,13 +30,17 @@
 
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/15rhQVGy25rH0c80GoduCizC92pt_nEAV/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/Figrac0/Figrac0/blob/main/resume.svg" />
+  </a>
+  <br />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sergey-sablin/" target="_blank">
     <img src="https://github.com/Figrac0/Figrac0/blob/main/linkedin.svg" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1c1zcVq30DFqpmFMCVIcR7P90m_S6xDs4/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
-  </a>
 </p>
 
 <p align="center">
@@ -44,9 +48,6 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/habr.svg" alt="Habr Career" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1VaVvekXXbdetommquptHCw4dpXdHZfKk/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
-  </a>
 </p>
 
 <p align="center">
@@ -54,9 +55,6 @@
     <img src="https://github.com/Figrac0/Figrac0/blob/main/hh.svg" alt="HH.ru" />
   </a>
   <br />
-  <a href="https://drive.google.com/file/d/1uDGzLnCe_ZZgD1AG2Gq03ZS6am031MJf/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/Figrac0/Figrac0/blob/main/PDF.svg" alt="PDF" height="18" />
-  </a>
 </p>
 
 <p align="center">
