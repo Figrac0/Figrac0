@@ -185,6 +185,11 @@ Stack: Next.js 13+, React, MongoDB, Markdown, CSS Modules, Context API<br/>
 Result: multi-layer filtering architecture, custom i18n system, markdown processing pipeline, real-time contact system, optimized performance with SSG/SSR and memoization<br/>
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA5ZXE5eDI0cXN6ZzBtZmFtOXZtM2UwcmNrenZnNnRqMWJib3VmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGAJoHmfplhiDDBnuc/giphy.gif" width="26" /> -->
 
+• <a href="https://github.com/Figrac0/T-Audio-Guide" target="_blank">T-Guide – Smart Audio Guide and Interactive City Routes Platform</a><br/>
+Interactive SPA platform for discovering city landmarks through audio guides, real-time navigation, and customizable walking routes<br/>
+Stack: React, TypeScript, Vite, Leaflet, React Router, Docker, JWT Auth<br/>
+Result: full-featured city exploration platform with interactive maps, route builder, audio guide system, admin panel, protected API architecture, geolocation navigation, and scalable Feature-Sliced Design architecture<br/>
+
 • <a href="https://github.com/Figrac0/Avatar-Type-Recognition" target="_blank">Avatar Type Recognition – Class Imbalance Study</a><br/>
 Three-class classification of avatars (real – drawing – AI-generated)<br/>
 Stack: PyTorch, timm, Grad-CAM<br/>
